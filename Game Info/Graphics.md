@@ -194,12 +194,14 @@
 |assets/icons/open.png|
 |assets/icons/open_door.png|
 |assets/icons/peace.png|
+|assets/icons/picked up.png|
 |assets/icons/pickup.png|
 |assets/icons/pills.png|
 |assets/icons/player_assist.png|
 |assets/icons/player_carry.png|
 |assets/icons/player_loot.png|
 |assets/icons/poison.png|
+|assets/icons/poof.png|
 |assets/icons/portion.png|
 |assets/icons/power.png|
 |assets/icons/press.png|
@@ -210,6 +212,7 @@
 |assets/icons/resource.png|
 |assets/icons/rotate.png|
 |assets/icons/rust.png|
+|assets/icons/safe zone.png|
 |assets/icons/save.png|
 |assets/icons/shadow.png|
 |assets/icons/sign.png|

@@ -361,6 +361,7 @@
 |-1958316066|hazmatsuit_scientist_peacekeeper|Scientist Suit|Attire|None|
 |567235583|weapon.mod.small.scope|8x Zoom Scope|Weapon|Rare|
 |-932201673|scrap|Scrap|Resources|Uncommon|
+|-1884328185|scraptransportheli.repair|ScrapTransportHeliRepair|Misc|None|
 |2087678962|searchlight|Search Light|Items|Uncommon|
 |-904863145|rifle.semiauto|Semi-Automatic Rifle|Weapon|Rare|
 |573926264|semibody|Semi Automatic Body|Component|Rare|
@@ -404,6 +405,7 @@
 |2048317869|skull.wolf|Wolf Skull|Resources|None|
 |-1754948969|sleepingbag|Sleeping Bag|Items|Uncommon|
 |-692338819|electric.battery.rechargable.small|Small Rechargable Battery|Misc|Common|
+|1849887541|electric.fuelgenerator.small|Small Generator|Misc|Uncommon|
 |-1293296287|small.oil.refinery|Small Oil Refinery|Items|Uncommon|
 |-369760990|stash.small|Small Stash|Items|None|
 |-2058362263|smallcandles|Small Candle Set|Misc|None|

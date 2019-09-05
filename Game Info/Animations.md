@@ -767,6 +767,7 @@
 |assets/content/nature/driftwood/meshes/driftwood_clutter4.fbx|
 |assets/content/nature/driftwood/meshes/driftwood_clutter5.fbx|
 |assets/content/nature/dunes/dunes.fbx|
+|assets/content/nature/dunes/dunes_col_temp.fbx|
 |assets/content/nature/glow_worms/models/glow_worms_dense_bent.fbx|
 |assets/content/nature/glow_worms/models/glow_worms_dense_cavity.fbx|
 |assets/content/nature/glow_worms/models/glow_worms_dense_flat.fbx|
@@ -803,9 +804,13 @@
 |assets/content/nature/ice/meshes/iceberg_6.fbx|
 |assets/content/nature/ice/meshes/iceberg_6_col.fbx|
 |assets/content/nature/ice_lakes/models/ice_lake_a.fbx|
+|assets/content/nature/ice_lakes/models/ice_lake_a_col_temp.fbx|
 |assets/content/nature/ice_lakes/models/ice_lake_b.fbx|
+|assets/content/nature/ice_lakes/models/ice_lake_b_col_temp.fbx|
 |assets/content/nature/ice_lakes/models/ice_lake_c.fbx|
+|assets/content/nature/ice_lakes/models/ice_lake_c_col_temp.fbx|
 |assets/content/nature/ice_lakes/models/ice_lake_d.fbx|
+|assets/content/nature/ice_lakes/models/ice_lake_d_col_temp.fbx|
 |assets/content/nature/icesheets/meshes/icesheets1.fbx|
 |assets/content/nature/icesheets/meshes/icesheets2.fbx|
 |assets/content/nature/icesheets/meshes/icesheets3.fbx|
@@ -963,22 +968,32 @@
 |assets/content/nature/reeds/models/reeds_tall.fbx|
 |assets/content/nature/reeds/models/reeds_tall_dry.fbx|
 |assets/content/nature/rocks/models/rock_cliff_a.fbx|
+|assets/content/nature/rocks/models/rock_cliff_a_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_cliff_b.fbx|
+|assets/content/nature/rocks/models/rock_cliff_b_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_cliff_c.fbx|
+|assets/content/nature/rocks/models/rock_cliff_c_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_ledge_a.fbx|
 |assets/content/nature/rocks/models/rock_ledge_a_col.fbx|
 |assets/content/nature/rocks/models/rock_med_a.fbx|
+|assets/content/nature/rocks/models/rock_med_a_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_med_b.fbx|
+|assets/content/nature/rocks/models/rock_med_b_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_med_c.fbx|
+|assets/content/nature/rocks/models/rock_med_c_col_temp.fbx|
 |assets/content/nature/rocks/models/rock_quarry_small_a.fbx|
 |assets/content/nature/rocks/models/rock_quarry_small_b.fbx|
 |assets/content/nature/rocks/models/rock_small_a.fbx|
 |assets/content/nature/rocks/models/rock_small_b.fbx|
 |assets/content/nature/rocks/models/rock_small_c.fbx|
 |assets/content/nature/snow_mounds/models/snow_mound_a.fbx|
+|assets/content/nature/snow_mounds/models/snow_mound_a_col_temp.fbx|
 |assets/content/nature/snow_mounds/models/snow_mound_b.fbx|
+|assets/content/nature/snow_mounds/models/snow_mound_b_col_temp.fbx|
 |assets/content/nature/snow_mounds/models/snow_mound_c.fbx|
+|assets/content/nature/snow_mounds/models/snow_mound_c_col_temp.fbx|
 |assets/content/nature/snow_mounds/models/snow_mound_d.fbx|
+|assets/content/nature/snow_mounds/models/snow_mound_d_col_temp.fbx|
 |assets/content/nature/snow_mounds/models/snowballs_a.fbx|
 |assets/content/nature/snow_mounds/models/snowballs_b.fbx|
 |assets/content/nature/snow_mounds/models/snowballs_c.fbx|
@@ -1476,6 +1491,7 @@
 |assets/content/props/fog machine/model/fogmachine.fbx|
 |assets/content/props/fog machine/model/fogmachine_col.fbx|
 |assets/content/props/forklift/models/forklift_a.fbx|
+|assets/content/props/forklift/models/forklift_a_col_temp.fbx|
 |assets/content/props/fuel engines/models/fuel_engine_basic.fbx|
 |assets/content/props/fuel engines/models/fuel_engine_basic_collision.fbx|
 |assets/content/props/fuel_tank/models/fuel_tank_a_600.fbx|
@@ -1579,6 +1595,7 @@
 |assets/content/props/lockers/models/locker_b_open.fbx|
 |assets/content/props/lockers/models/locker_b_open_col.fbx|
 |assets/content/props/metal wheel/metalwheel.fbx|
+|assets/content/props/metal wheel/metalwheel_col_temp.fbx|
 |assets/content/props/office_furniture/bin/models/bin_a.fbx|
 |assets/content/props/office_furniture/chair/models/chair_a.fbx|
 |assets/content/props/office_furniture/computer_cabinet/models/computer_cabinet_a.fbx|
@@ -1772,6 +1789,7 @@
 |assets/content/props/power_generator/models/power_generator_b_col.fbx|
 |assets/content/props/power_generator/models/power_generator_c.fbx|
 |assets/content/props/power_generator/models/power_generator_c_col.fbx|
+|assets/content/props/powerline_poles/meshes/1x1_tube.fbx|
 |assets/content/props/powerline_poles/meshes/pipe_pole.fbx|
 |assets/content/props/powerline_poles/meshes/powerline_pole_a.fbx|
 |assets/content/props/powerline_poles/meshes/powerline_pole_b.fbx|
@@ -1814,6 +1832,7 @@
 |assets/content/props/road_signs/roadsign9.fbx|
 |assets/content/props/road_signs/roadsign9_lod1.fbx|
 |assets/content/props/rocking chair/rockingchair.fbx|
+|assets/content/props/rocking chair/rockingchair_col_temp.fbx|
 |assets/content/props/ropes/models/rope_docks_a.fbx|
 |assets/content/props/rubble_piles/models/brick_pile_1x6.fbx|
 |assets/content/props/rubble_piles/models/brick_pile_1x6_col.fbx|
@@ -2024,6 +2043,7 @@
 |assets/content/structures/abandonded lighthouse/a_lighthouse_wood_col.fbx|
 |assets/content/structures/awnings/models/awning_900.fbx|
 |assets/content/structures/awnings/models/awning_900_clothtest.fbx|
+|assets/content/structures/awnings/models/awning_900_col_temp.fbx|
 |assets/content/structures/billboards/models/billboard_a.fbx|
 |assets/content/structures/billboards/models/billboard_a_col.fbx|
 |assets/content/structures/bridge/models/bridge_blockout.fbx|
@@ -2090,6 +2110,7 @@
 |assets/content/structures/bus_stops/models/bus_stop_a_col_b.fbx|
 |assets/content/structures/cargo_ship/models/cargo_ship.fbx|
 |assets/content/structures/cargo_ship/models/cargo_ship_anchor_conveyor.fbx|
+|assets/content/structures/cargo_ship/models/cargo_ship_anchor_conveyor_col_temp.fbx|
 |assets/content/structures/cargo_ship/models/cargo_ship_antena.fbx|
 |assets/content/structures/cargo_ship/models/cargo_ship_antena_col.fbx|
 |assets/content/structures/cargo_ship/models/cargo_ship_crew_building.fbx|
@@ -2195,8 +2216,10 @@
 |assets/content/structures/dredge/models/dredge_body.fbx|
 |assets/content/structures/dredge/models/dredge_body_col.fbx|
 |assets/content/structures/dredge/models/dredge_bridges.fbx|
+|assets/content/structures/dredge/models/dredge_bridges_col_temp.fbx|
 |assets/content/structures/dredge/models/dredge_glass.fbx|
 |assets/content/structures/dredge/models/dredge_props.fbx|
+|assets/content/structures/dredge/models/dredge_props_col_temp.fbx|
 |assets/content/structures/excavator/models/bucket_excavator.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_arm.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_arm_belt.fbx|
@@ -2214,6 +2237,7 @@
 |assets/content/structures/excavator/models/bucket_excavator_bottom.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_bottom_col.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_bottom_railings.fbx|
+|assets/content/structures/excavator/models/bucket_excavator_bottom_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_bucket.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_bucket_col.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_bucket_railings.fbx|
@@ -2225,6 +2249,7 @@
 |assets/content/structures/excavator/models/bucket_excavator_core.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_core_col.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_core_railings.fbx|
+|assets/content/structures/excavator/models/bucket_excavator_core_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_head.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_head_col_a.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_head_col_b.fbx|
@@ -2234,43 +2259,58 @@
 |assets/content/structures/excavator/models/bucket_excavator_leg.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_leg_col.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_railings.fbx|
+|assets/content/structures/excavator/models/bucket_excavator_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_tracks.fbx|
 |assets/content/structures/excavator/models/bucket_excavator_tracks_col.fbx|
 |assets/content/structures/excavator/models/conveyor_bridge.fbx|
 |assets/content/structures/excavator/models/conveyor_bridge_belt.fbx|
+|assets/content/structures/excavator/models/conveyor_bridge_belt_col_temp.fbx|
 |assets/content/structures/excavator/models/conveyor_bridge_col.fbx|
 |assets/content/structures/excavator/models/conveyor_bridge_railings.fbx|
+|assets/content/structures/excavator/models/conveyor_bridge_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/conveyor_unit.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_belt.fbx|
+|assets/content/structures/excavator/models/conveyor_unit_belt_col_temp.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_buildings.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_buildings_col.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_col.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_head.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_head_col.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_head_railings.fbx|
+|assets/content/structures/excavator/models/conveyor_unit_head_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/conveyor_unit_railings.fbx|
+|assets/content/structures/excavator/models/conveyor_unit_railings_col_temp.fbx|
 |assets/content/structures/excavator/models/large_cable_roll.fbx|
 |assets/content/structures/excavator/models/large_cable_roll_col.fbx|
 |assets/content/structures/excavator/models/large_cable_roll_nobase.fbx|
 |assets/content/structures/excavator/models/large_cable_roll_nobase_col.fbx|
 |assets/content/structures/excavator/models/stairs_100.fbx|
 |assets/content/structures/excavator/models/stairs_100_col.fbx|
+|assets/content/structures/excavator/models/stairs_100_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_150.fbx|
 |assets/content/structures/excavator/models/stairs_150_col.fbx|
+|assets/content/structures/excavator/models/stairs_150_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_200.fbx|
 |assets/content/structures/excavator/models/stairs_200_col.fbx|
+|assets/content/structures/excavator/models/stairs_200_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_250.fbx|
 |assets/content/structures/excavator/models/stairs_250_col.fbx|
+|assets/content/structures/excavator/models/stairs_250_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_300.fbx|
 |assets/content/structures/excavator/models/stairs_300_col.fbx|
+|assets/content/structures/excavator/models/stairs_300_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_350.fbx|
 |assets/content/structures/excavator/models/stairs_350_col.fbx|
+|assets/content/structures/excavator/models/stairs_350_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_400.fbx|
 |assets/content/structures/excavator/models/stairs_400_col.fbx|
+|assets/content/structures/excavator/models/stairs_400_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_450.fbx|
 |assets/content/structures/excavator/models/stairs_450_col.fbx|
+|assets/content/structures/excavator/models/stairs_450_col_temp.fbx|
 |assets/content/structures/excavator/models/stairs_75.fbx|
 |assets/content/structures/excavator/models/stairs_75_col.fbx|
+|assets/content/structures/excavator/models/stairs_75_col_temp.fbx|
 |assets/content/structures/excavator/models/terrain_belts.fbx|
 |assets/content/structures/excavator/models/terrain_belts_col.fbx|
 |assets/content/structures/excavator/models/terrain_belts_splitter.fbx|
@@ -2454,10 +2494,15 @@
 |assets/content/structures/harbor/dock_walls/models/dockwall_straight_600.fbx|
 |assets/content/structures/harbor/dock_walls/models/dockwall_straight_600_col.fbx|
 |assets/content/structures/harbor/grounds/models/harbor_1_grounds_a.fbx|
+|assets/content/structures/harbor/grounds/models/harbor_1_grounds_a_col_temp.fbx|
 |assets/content/structures/harbor/grounds/models/harbor_1_grounds_b.fbx|
+|assets/content/structures/harbor/grounds/models/harbor_1_grounds_b_col_temp.fbx|
 |assets/content/structures/harbor/grounds/models/harbor_2_grounds_a.fbx|
+|assets/content/structures/harbor/grounds/models/harbor_2_grounds_a_col_temp.fbx|
 |assets/content/structures/harbor/grounds/models/harbor_2_grounds_b.fbx|
+|assets/content/structures/harbor/grounds/models/harbor_2_grounds_b_col_temp.fbx|
 |assets/content/structures/harbor/grounds/models/harbor_2_grounds_c.fbx|
+|assets/content/structures/harbor/grounds/models/harbor_2_grounds_c_col_temp.fbx|
 |assets/content/structures/harbor/tugboat/models/test.fbx|
 |assets/content/structures/harbor/tugboat/models/tugboat_a.fbx|
 |assets/content/structures/harbor/tugboat/models/tugboat_a_col.fbx|
@@ -2589,6 +2634,7 @@
 |assets/content/structures/industrial_structures/models/pigeon_nest_industrial_col_b.fbx|
 |assets/content/structures/industrial_structures/models/pigeon_nest_industrial_occluder.fbx|
 |assets/content/structures/industrial_structures/models/powerplant_grounds_a.fbx|
+|assets/content/structures/industrial_structures/models/powerplant_grounds_a_col_temp.fbx|
 |assets/content/structures/industrial_structures/models/silo_a.fbx|
 |assets/content/structures/industrial_structures/models/silo_a_col.fbx|
 |assets/content/structures/industrial_structures/models/silo_a_occluder.fbx|
@@ -2681,12 +2727,18 @@
 |assets/content/structures/launch_site/models/large_vent.fbx|
 |assets/content/structures/launch_site/models/large_vent_col.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_a.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_a_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_b.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_b_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_c.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_c_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_cracks.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_d.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_d_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_e.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_e_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_f.fbx|
+|assets/content/structures/launch_site/models/launch_site_ground_f_col_temp.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_g.fbx|
 |assets/content/structures/launch_site/models/launch_site_ground_pipes.fbx|
 |assets/content/structures/launch_site/models/pipe_cover_left.fbx|
@@ -2723,13 +2775,21 @@
 |assets/content/structures/launch_site/models/range_core_interior.fbx|
 |assets/content/structures/launch_site/models/range_core_interior_col.fbx|
 |assets/content/structures/launch_site/models/range_ground_chute_a.fbx|
+|assets/content/structures/launch_site/models/range_ground_chute_a_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_chute_b.fbx|
+|assets/content/structures/launch_site/models/range_ground_chute_b_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_drain_a.fbx|
+|assets/content/structures/launch_site/models/range_ground_drain_a_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_drain_b.fbx|
+|assets/content/structures/launch_site/models/range_ground_drain_b_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_drain_c.fbx|
+|assets/content/structures/launch_site/models/range_ground_drain_c_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_drain_d.fbx|
+|assets/content/structures/launch_site/models/range_ground_drain_d_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_drain_e.fbx|
+|assets/content/structures/launch_site/models/range_ground_drain_e_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_ground_zero.fbx|
+|assets/content/structures/launch_site/models/range_ground_zero_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_halls_a.fbx|
 |assets/content/structures/launch_site/models/range_halls_a_col.fbx|
 |assets/content/structures/launch_site/models/range_halls_b.fbx|
@@ -2747,8 +2807,11 @@
 |assets/content/structures/launch_site/models/range_ramp_left.fbx|
 |assets/content/structures/launch_site/models/range_ramp_left_col.fbx|
 |assets/content/structures/launch_site/models/range_terrain_mound_a.fbx|
+|assets/content/structures/launch_site/models/range_terrain_mound_a_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_terrain_mound_b.fbx|
+|assets/content/structures/launch_site/models/range_terrain_mound_b_col_temp.fbx|
 |assets/content/structures/launch_site/models/range_terrain_slope.fbx|
+|assets/content/structures/launch_site/models/range_terrain_slope_col_temp.fbx|
 |assets/content/structures/launch_site/models/trail_path_a.fbx|
 |assets/content/structures/launch_site/models/trail_path_b.fbx|
 |assets/content/structures/launch_site/models/vent.fbx|
@@ -3119,6 +3182,7 @@
 |assets/content/structures/roads/models/carpark_a.fbx|
 |assets/content/structures/roads/models/carpark_a_col.fbx|
 |assets/content/structures/roads/models/loading_bay_lane_a.fbx|
+|assets/content/structures/roads/models/loading_bay_lane_a_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_3x3_isle_end.fbx|
 |assets/content/structures/roads/models/pavement_3x3_isle_end_col.fbx|
 |assets/content/structures/roads/models/pavement_3x6_isle.fbx|
@@ -3136,10 +3200,15 @@
 |assets/content/structures/roads/models/pavement_6x6_sshape_right.fbx|
 |assets/content/structures/roads/models/pavement_6x6_sshape_right_col.fbx|
 |assets/content/structures/roads/models/pavement_compound_a.fbx|
+|assets/content/structures/roads/models/pavement_compound_a_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_compound_b.fbx|
+|assets/content/structures/roads/models/pavement_compound_b_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_compound_c.fbx|
+|assets/content/structures/roads/models/pavement_compound_c_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_compound_d.fbx|
+|assets/content/structures/roads/models/pavement_compound_d_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_compound_e.fbx|
+|assets/content/structures/roads/models/pavement_compound_e_col_temp.fbx|
 |assets/content/structures/roads/models/pavement_corner_in.fbx|
 |assets/content/structures/roads/models/pavement_corner_in_col.fbx|
 |assets/content/structures/roads/models/pavement_corner_out.fbx|
@@ -3741,17 +3810,24 @@
 |assets/content/structures/wooden_walkway/meshes/wooden_ledge_stairs_100_mirror_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_ledge_stairs_100_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_bend.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_bend_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_bend_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_s.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_s_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_1200_s_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_2400_s.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_2400_s_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_2400_s_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_300.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_300_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_300_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_900.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_900_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_900_navmesh.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_pillar_light.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_pillar_light_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100.fbx|
+|assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100_navmesh.fbx|
 |assets/content/ui/gameui/ui.crosshair.hide.anim|
 |assets/content/ui/gameui/ui.crosshair.show.anim|
@@ -3769,20 +3845,20 @@
 |assets/content/ui/gameui/ui.inventory.openinv.anim|
 |assets/content/ui/gameui/ui.inventory.selecteditem.close.anim|
 |assets/content/ui/gameui/ui.inventory.selecteditem.open.anim|
-|assets/content/ui/gameui/ui.item.dropped.anim.anim|
-|assets/content/ui/gameui/ui.item.pickup.anim.anim|
 |assets/content/vehicles/boats/boat_engine/models/boat_engine.fbx|
 |assets/content/vehicles/boats/boat_engine/models/engine_block.fbx|
 |assets/content/vehicles/boats/boat_engine/models/engine_block_col.fbx|
 |assets/content/vehicles/boats/boat_engine/models/hinge_socket.fbx|
 |assets/content/vehicles/boats/boat_engine/models/propeller.fbx|
 |assets/content/vehicles/boats/rhib/inflatable_boat_lods.fbx|
+|assets/content/vehicles/boats/rhib/inflatable_boat_lods_col_temp.fbx|
 |assets/content/vehicles/boats/rhib/inflatableboat_collider.fbx|
 |assets/content/vehicles/boats/rowboat/model/metalrowboat.fbx|
 |assets/content/vehicles/boats/rowboat/model/metalrowboat_gibs.fbx|
 |assets/content/vehicles/boats/rowboat/model/metalrowboatconcave_col.fbx|
 |assets/content/vehicles/boats/rowboat/model/metalrowboatconvex_col.fbx|
 |assets/content/vehicles/boats/rowboat/model/oldwoodenrowboat.fbx|
+|assets/content/vehicles/boats/rowboat/model/oldwoodenrowboat_col_temp.fbx|
 |assets/content/vehicles/boats/rowboat/model/rowboat.fbx|
 |assets/content/vehicles/boats/rowboat/model/rowboat_gibs.fbx|
 |assets/content/vehicles/boats/rowboat/model/rowboatconcave_col.fbx|
@@ -3803,6 +3879,13 @@
 |assets/content/vehicles/minicopter/model/minicopter_anims.fbx|
 |assets/content/vehicles/minicopter/model/minicopter_col.fbx|
 |assets/content/vehicles/minicopter/model/minicopter_gibs.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli_col.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli_gibs.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli_gibs_col_temp.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli_skinned.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheli_skinned_anims.fbx|
+|assets/content/vehicles/scrap heli carrier/model/scrapheliconvex_col.fbx|
 |assets/content/vehicles/sedan_a/models/sedan_a.fbx|
 |assets/content/vehicles/sedan_a/models/sedan_a_col.fbx|
 |assets/content/vehicles/sedan_a/models/sedan_a_wrecked.fbx|
@@ -3960,11 +4043,9 @@
 |assets/prefabs/building/ladder.wall.wood/model/ladder.gibs.fbx|
 |assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.fbx|
 |assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.gibs.fbx|
-|assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.occlusion.fbx|
 |assets/prefabs/building/wall.external.high.stone/wall.external.high.stone_col.fbx|
 |assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.fbx|
 |assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.gibs.fbx|
-|assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.occlusion.fbx|
 |assets/prefabs/building/wall.external.high.wood/wall.external.high.wood_collision.fbx|
 |assets/prefabs/building/wall.frame.cell/models/wall.frame.cell.fbx|
 |assets/prefabs/building/wall.frame.cell/models/wall.frame.cell.gate.door.fbx|
@@ -4050,7 +4131,6 @@
 |assets/prefabs/clothes/gloves.tactical/tacticalgloves_wm.fbx|
 |assets/prefabs/clothes/hair/armpithair/female_armpit_hair_01.fbx|
 |assets/prefabs/clothes/hair/armpithair/male_armpit_hair_01.fbx|
-|assets/prefabs/clothes/hair/diogo_skinhair_test.fbx|
 |assets/prefabs/clothes/hair/eyebrowhair/female_eyebrows_01.fbx|
 |assets/prefabs/clothes/hair/eyebrowhair/male_eyebrows_01.fbx|
 |assets/prefabs/clothes/hair/facialhair_style01/male_facial_hairstyle_1.fbx|
@@ -4207,6 +4287,7 @@
 |assets/prefabs/deployable/bbq/bbq.fbx|
 |assets/prefabs/deployable/bbq/bbq_gibs.fbx|
 |assets/prefabs/deployable/bbq/bbq_rigged.fbx|
+|assets/prefabs/deployable/bbq/bbq_rigged_col_temp.fbx|
 |assets/prefabs/deployable/bear trap/w_btrap.fbx|
 |assets/prefabs/deployable/bed/bed.fbx|
 |assets/prefabs/deployable/bed/bed_gibs.fbx|
@@ -4308,6 +4389,7 @@
 |assets/prefabs/deployable/landmine/landmine.fbx|
 |assets/prefabs/deployable/landmine/landmine_lod1.fbx|
 |assets/prefabs/deployable/lantern/model/lantern.fbx|
+|assets/prefabs/deployable/lantern/model/lantern_col_temp.fbx|
 |assets/prefabs/deployable/lantern/model/lantern_glass.fbx|
 |assets/prefabs/deployable/lantern/model/lantern_w_handleup.fbx|
 |assets/prefabs/deployable/lantern/model/v_lantern.fbx|
@@ -4353,6 +4435,7 @@
 |assets/prefabs/deployable/oil jack/model/oiljack_main_gibs.fbx|
 |assets/prefabs/deployable/oil jack/model/oiljack_valve.fbx|
 |assets/prefabs/deployable/oil refinery/refinery_a.fbx|
+|assets/prefabs/deployable/oil refinery/refinery_a_col_temp.fbx|
 |assets/prefabs/deployable/oil refinery/refinery_a_collision.fbx|
 |assets/prefabs/deployable/oil refinery/refinery_a_gibs.fbx|
 |assets/prefabs/deployable/oil refinery/refinery_a_hatch.fbx|
@@ -4402,6 +4485,7 @@
 |assets/prefabs/deployable/reactive target/model_anims/target_col.fbx|
 |assets/prefabs/deployable/reactive target/reactivetarget.fbx|
 |assets/prefabs/deployable/repair bench/r_bench.fbx|
+|assets/prefabs/deployable/repair bench/r_bench_col_temp.fbx|
 |assets/prefabs/deployable/repair bench/r_bench_gibs.fbx|
 |assets/prefabs/deployable/research table/research_table.fbx|
 |assets/prefabs/deployable/research table/research_table_collision.fbx|
@@ -4413,8 +4497,10 @@
 |assets/prefabs/deployable/rug/models/rug_worldmodel.fbx|
 |assets/prefabs/deployable/scap pile/scrappile.fbx|
 |assets/prefabs/deployable/search light/model/scrap_searchlight_a.fbx|
+|assets/prefabs/deployable/search light/model/scrap_searchlight_a_col_temp.fbx|
 |assets/prefabs/deployable/search light/model/scrap_searchlight_a_gibs.fbx|
 |assets/prefabs/deployable/search light/model/scrap_searchlight_barrel.fbx|
+|assets/prefabs/deployable/search light/model/scrap_searchlight_barrel_col_temp.fbx|
 |assets/prefabs/deployable/search light/model/scrap_searchlight_barrel_gibs.fbx|
 |assets/prefabs/deployable/shelves/models/shelves_300x150.fbx|
 |assets/prefabs/deployable/shelves/models/shelves_300x150_col.fbx|
@@ -4509,15 +4595,20 @@
 |assets/prefabs/deployable/table/models/table_col.fbx|
 |assets/prefabs/deployable/table/models/table_gibs.fbx|
 |assets/prefabs/deployable/tier 1 workbench/tier1workbench.fbx|
+|assets/prefabs/deployable/tier 1 workbench/tier1workbench_col_temp.fbx|
 |assets/prefabs/deployable/tier 1 workbench/tier1workbench_gibs.fbx|
 |assets/prefabs/deployable/tier 2 workbench/tier2workbench.fbx|
+|assets/prefabs/deployable/tier 2 workbench/tier2workbench_col_temp.fbx|
 |assets/prefabs/deployable/tier 2 workbench/tier2workbenchextras.fbx|
+|assets/prefabs/deployable/tier 2 workbench/tier2workbenchextras_col_temp.fbx|
 |assets/prefabs/deployable/tier 2 workbench/tier2workbenchextrasgibs.fbx|
 |assets/prefabs/deployable/tier 2 workbench/tier2workbenchgibs.fbx|
 |assets/prefabs/deployable/tier 3 workbench/cables.fbx|
 |assets/prefabs/deployable/tier 3 workbench/tier3workbench.fbx|
+|assets/prefabs/deployable/tier 3 workbench/tier3workbench_col_temp.fbx|
 |assets/prefabs/deployable/tier 3 workbench/tier3workbench_gibs.fbx|
 |assets/prefabs/deployable/tier 3 workbench/tier3workbenchextras.fbx|
+|assets/prefabs/deployable/tier 3 workbench/tier3workbenchextras_col_temp.fbx|
 |assets/prefabs/deployable/tier 3 workbench/tier3workbenchextras_gibs.fbx|
 |assets/prefabs/deployable/tool cupboard/tool cupboard.fbx|
 |assets/prefabs/deployable/tool cupboard/tool_cupboard.fbx|
@@ -4536,8 +4627,10 @@
 |assets/prefabs/deployable/water catcher/w_tank_small_gibs.fbx|
 |assets/prefabs/deployable/water catcher/water_catcher_large.fbx|
 |assets/prefabs/deployable/water catcher/water_catcher_large_col.fbx|
+|assets/prefabs/deployable/water catcher/water_catcher_large_col_temp.fbx|
 |assets/prefabs/deployable/water catcher/water_catcher_large_gibs.fbx|
 |assets/prefabs/deployable/water catcher/water_catcher_small.fbx|
+|assets/prefabs/deployable/water catcher/water_catcher_small_col_temp.fbx|
 |assets/prefabs/deployable/water catcher/water_catcher_small_gibs.fbx|
 |assets/prefabs/deployable/water well/models/water_well.fbx|
 |assets/prefabs/deployable/water well/models/water_well.gibs.fbx|
@@ -4552,6 +4645,7 @@
 |assets/prefabs/deployable/water wheel/model/waterwheel_gibs.fbx|
 |assets/prefabs/deployable/waterpurifier/models/water_desalinator.fbx|
 |assets/prefabs/deployable/waterpurifier/models/water_desalinator.gibs.fbx|
+|assets/prefabs/deployable/waterpurifier/models/water_desalinator.gibs_col_temp.fbx|
 |assets/prefabs/deployable/waterpurifier/models/water_desalinator_col.fbx|
 |assets/prefabs/deployable/windmill/windmill_main.fbx|
 |assets/prefabs/deployable/windmill/windmill_main_collision.fbx|
@@ -4783,6 +4877,7 @@
 |assets/prefabs/npc/autoturret/sentry.pitch_col.fbx|
 |assets/prefabs/npc/autoturret/sentry.yaw_col.fbx|
 |assets/prefabs/npc/cargo plane/model/cargo plane.fbx|
+|assets/prefabs/npc/cargo plane/model/cargo plane_col_temp.fbx|
 |assets/prefabs/npc/ch47/model/ch47.fbx|
 |assets/prefabs/npc/ch47/model/ch47@animations.fbx|
 |assets/prefabs/npc/ch47/model/ch47_collider.fbx|
@@ -4823,6 +4918,8 @@
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_col.fbx|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_gibs.fbx|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_gibs_2.fbx|
+|assets/prefabs/npc/patrol helicopter/patrol_helicopter_gibs_2_col_temp.fbx|
+|assets/prefabs/npc/patrol helicopter/patrol_helicopter_gibs_col_temp.fbx|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_lod.fbx|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_part00_col.fbx|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter_part01_col.fbx|
@@ -4945,6 +5042,9 @@
 |assets/prefabs/tools/flashlight/model/v_flashlight@attack_hit.fbx|
 |assets/prefabs/tools/flashlight/model/v_flashlight@deploy.fbx|
 |assets/prefabs/tools/flashlight/model/v_flashlight@idle.fbx|
+|assets/prefabs/tools/fuel generator/model/fuelgenerator.fbx|
+|assets/prefabs/tools/fuel generator/model/fuelgenerator_gibs.fbx|
+|assets/prefabs/tools/fuel generator/model/fuelgeneratorcol.fbx|
 |assets/prefabs/tools/geiger counter/animation/geiger.deploy.fbx|
 |assets/prefabs/tools/geiger counter/animation/geiger.idle.fbx|
 |assets/prefabs/tools/geiger counter/animation/geiger.scanning.fbx|
@@ -4984,6 +5084,9 @@
 |assets/prefabs/tools/surveycharge/model/v_survey@idle.fbx|
 |assets/prefabs/tools/surveycharge/model/v_survey@throw.fbx|
 |assets/prefabs/tools/surveycharge/surveycharge.fbx|
+|assets/prefabs/tools/tesla coil/model/teslacoil.fbx|
+|assets/prefabs/tools/tesla coil/model/teslacoil_col.fbx|
+|assets/prefabs/tools/tesla coil/model/teslacoil_gibs.fbx|
 |assets/prefabs/tools/wire/models/v_wire.fbx|
 |assets/prefabs/tools/wire/models/v_wire_anims.fbx|
 |assets/prefabs/tools/wire/models/w_wire.fbx|
@@ -5946,18 +6049,6 @@
 |assets/rust.ai/agents/wolf/model/wolf@walk_sniff.fbx|
 |assets/rust.ai/agents/wolf/model/wolf@walk_turnleft.fbx|
 |assets/rust.ai/agents/wolf/model/wolf@walk_turnright.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole 6 wires.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole back support.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole double x.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole metal cross.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole standard wide.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole standard.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole trackside.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole transformer round.fbx|
-|assets/standard assets/third party/megawire/poles/objects/pole transformer.fbx|
-|assets/standard assets/third party/megawire/unity powerlines/powerlinepole1.fbx|
-|assets/standard assets/third party/megawire/unity powerlines/powerlinepole2.fbx|
-|assets/standard assets/third party/megawire/unity powerlines/powerlinepole3.fbx|
 |assets/standard assets/third party/time of day/assets/meshes/billboard.fbx|
 |assets/standard assets/third party/time of day/assets/meshes/clouds.fbx|
 |assets/standard assets/third party/time of day/assets/meshes/moon.fbx|

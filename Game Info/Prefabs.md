@@ -937,6 +937,7 @@
 |assets/bundled/prefabs/fx/well/pump_up.prefab|
 |assets/bundled/prefabs/hapis/desk_greencard_hapis.prefab|
 |assets/bundled/prefabs/hapis/hapis_rock_formation_a.prefab|
+|assets/bundled/prefabs/hapis/lake.prefab|
 |assets/bundled/prefabs/hapis/military_tunnel_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab|
@@ -1097,6 +1098,7 @@
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.watercatcher.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.workbench.prefab|
 |assets/bundled/prefabs/ui/menuui.prefab|
+|assets/bundled/prefabs/wire_prefab.prefab|
 |assets/bundled/prefabs/world/ai.prefab|
 |assets/bundled/prefabs/world/ambience.prefab|
 |assets/bundled/prefabs/world/batching.prefab|
@@ -2075,6 +2077,7 @@
 |assets/content/sound/templates/large-local-ambience.prefab|
 |assets/content/sound/templates/large-sound-fast-falloff.prefab|
 |assets/content/sound/templates/large-sound.prefab|
+|assets/content/sound/templates/medium-large-sound-distance.prefab|
 |assets/content/sound/templates/medium-large-sound.prefab|
 |assets/content/sound/templates/medium-local-ambience.prefab|
 |assets/content/sound/templates/medium-sound.prefab|
@@ -3047,6 +3050,13 @@
 |assets/content/vehicles/minicopter/minicopter.entity.prefab|
 |assets/content/vehicles/minicopter/minicopter.repair.item.prefab|
 |assets/content/vehicles/minicopter/subents/fuel_storage.prefab|
+|assets/content/vehicles/scrap heli carrier/effects/debris_effect.prefab|
+|assets/content/vehicles/scrap heli carrier/effects/wheel-impact.prefab|
+|assets/content/vehicles/scrap heli carrier/scrapheli.prefab|
+|assets/content/vehicles/scrap heli carrier/scrapheli.repair.item.prefab|
+|assets/content/vehicles/scrap heli carrier/scrapheli_gibs.prefab|
+|assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab|
+|assets/content/vehicles/scrap heli carrier/servergibs_scraptransport.prefab|
 |assets/content/vehicles/sedan_a/sedan.entity.prefab|
 |assets/content/vehicles/sedan_a/sedan_a_black.prefab|
 |assets/content/vehicles/sedan_a/sedan_a_blue.prefab|
@@ -3850,6 +3860,8 @@
 |assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab|
 |assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.entity.prefab|
 |assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.item.prefab|
+|assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.deployed.prefab|
+|assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.item.prefab|
 |assets/prefabs/deployable/playerioents/generators/generator.small.item.prefab|
 |assets/prefabs/deployable/playerioents/generators/generator.small.prefab|
 |assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab|
@@ -3864,6 +3876,7 @@
 |assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.item.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/teslacoil.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.item.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.prefab|
 |assets/prefabs/deployable/playerioents/tunnel/cabletunnel.item.prefab|
@@ -4020,6 +4033,7 @@
 |assets/prefabs/deployable/water well/waterwellstatic.prefab|
 |assets/prefabs/deployable/water wheel/waterwheel.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
+|assets/prefabs/deployable/waterpurifier/water_desalinator.gibs.prefab|
 |assets/prefabs/deployable/waterpurifier/water_desalinator.prefab|
 |assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.prefab|
 |assets/prefabs/deployable/waterpurifier/waterpurifier.item.prefab|
@@ -4561,6 +4575,7 @@
 |assets/prefabs/npc/patrol helicopter/heli_crate.prefab|
 |assets/prefabs/npc/patrol helicopter/helibullet.prefab|
 |assets/prefabs/npc/patrol helicopter/patrol_helicopter.prefab|
+|assets/prefabs/npc/patrol helicopter/patrol_helicopter_gibs_2.prefab|
 |assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab|
 |assets/prefabs/npc/patrol helicopter/rocket_heli.prefab|
 |assets/prefabs/npc/patrol helicopter/rocket_heli_airburst.prefab|
@@ -4763,6 +4778,7 @@
 |assets/prefabs/tools/flashlight/flashlight.viewmodel.prefab|
 |assets/prefabs/tools/flashlight/flashlight.worldmodel.prefab|
 |assets/prefabs/tools/flashlight/vm_flashlight.prefab|
+|assets/prefabs/tools/fuel generator/fuelgenerator.prefab|
 |assets/prefabs/tools/geiger counter/geiger_counter.entity.prefab|
 |assets/prefabs/tools/geiger counter/geiger_counter.item.prefab|
 |assets/prefabs/tools/jackhammer/effects/deploy.prefab|
@@ -4840,6 +4856,7 @@
 |assets/prefabs/tools/surveycharge/survey_crater_oil.prefab|
 |assets/prefabs/tools/surveycharge/surveycharge.item.prefab|
 |assets/prefabs/tools/surveycharge/surveycharge.prefab|
+|assets/prefabs/tools/tesla coil/teslacoil.prefab|
 |assets/prefabs/tools/wire/clientioline.prefab|
 |assets/prefabs/tools/wire/effects/plugeffect.prefab|
 |assets/prefabs/tools/wire/ioslothandles/ioslothandle.prefab|
@@ -4865,6 +4882,8 @@
 |assets/prefabs/vehicle/seats/smallboatpassenger.prefab|
 |assets/prefabs/vehicle/seats/standingdriver.prefab|
 |assets/prefabs/vehicle/seats/testseat.prefab|
+|assets/prefabs/vehicle/seats/transporthelicopilot.prefab|
+|assets/prefabs/vehicle/seats/transporthelipilot.prefab|
 |assets/prefabs/visualization/sphere.prefab|
 |assets/prefabs/weapon mods/8x scope/8xscope.entity.prefab|
 |assets/prefabs/weapon mods/8x scope/8xscope.item.prefab|

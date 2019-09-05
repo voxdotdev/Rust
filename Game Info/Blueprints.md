@@ -11,7 +11,7 @@
 |1712070256|ammo.rifle.hv|Rare|0|False|3|metal.fragments:10;gunpowder:20;|
 |-742865266|ammo.rocket.basic|Rare|0|False|3|metalpipe:2;gunpowder:150;explosives:10;|
 |1638322904|ammo.rocket.fire|Rare|0|False|2|metalpipe:2;gunpowder:250;lowgradefuel:250;explosives:1;|
-|-1841918730|ammo.rocket.hv|Rare|0|False|3|metalpipe:1;gunpowder:100;explosives:2;|
+|-1841918730|ammo.rocket.hv|Rare|0|False|2|metalpipe:1;gunpowder:100;|
 |-1685290200|ammo.shotgun|Uncommon|0|False|2|metal.fragments:5;gunpowder:10;|
 |-1036635990|ammo.shotgun.fire|Rare|0|False|2|metal.fragments:5;gunpowder:10;sulfur:20;|
 |-727717969|ammo.shotgun.slug|Rare|0|False|2|metal.fragments:10;gunpowder:10;|
@@ -195,7 +195,7 @@
 |-2002277461|roadsign.jacket|Rare|0|False|2|leather:40;roadsigns:3;sewingkit:3;|
 |1199391518|roadsigns|None|20|False|3|metal.refined:2;scrap:20;|
 |963906841|rock|None|0|True|0|stones:10;|
-|442886268|rocket.launcher|VeryRare|0|False|3|metal.refined:50;metalpipe:6;|
+|442886268|rocket.launcher|VeryRare|0|False|2|metal.refined:40;metalpipe:4;|
 |-1104881824|rug.bear|Uncommon|0|False|0|leather:100;|
 |-1985799200|rug|Uncommon|0|False|0|cloth:100;|
 |-173268129|rustige_egg_a|None|0|False|0|metal.refined:2;|
@@ -241,6 +241,7 @@
 |553887414|skull_fire_pit|None|0|False|0|wood:100;skull.human:1;|
 |-1754948969|sleepingbag|Uncommon|0|True|0|cloth:30;|
 |-692338819|electric.battery.rechargable.small|None|0|False|1|metal.refined:10;|
+|1849887541|electric.fuelgenerator.small|None|0|False|2|metal.refined:15;gears:2;|
 |-1293296287|small.oil.refinery|Uncommon|0|False|2|wood:200;metal.fragments:500;lowgradefuel:250;|
 |-369760990|stash.small|Common|0|True|0|cloth:10;|
 |-2058362263|smallcandles|None|0|False|0|fat.animal:20;cloth:5;|

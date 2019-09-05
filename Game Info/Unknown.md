@@ -32,7 +32,9 @@
 |assets/content/effects/muzzleflashes/muzzle_flash-t.tga|
 |assets/content/effects/muzzleflashes/muzzle_flash-v.tga|
 |assets/content/effects/muzzleflashes/muzzle_smoketrail.psd|
+|assets/content/materials/cable.jpg|
 |assets/content/nature/dunes/dune_lod0.obj|
+|assets/content/nature/dunes/dune_lod0_col_temp.obj|
 |assets/content/nature/ores/sound/ore-break-001.asset|
 |assets/content/nature/rivers/river_1_1.obj|
 |assets/content/nature/treesprefabs/trees/sound/tree-bonus-damage.asset|
@@ -632,6 +634,9 @@
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-engine-loop-no-tail-rotor.asset|
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-engine-loop.asset|
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-explosion.asset|
+|assets/content/sound/sounddefinitions/entities/helicopter/helicopter-flight-loop-engine.asset|
+|assets/content/sound/sounddefinitions/entities/helicopter/helicopter-flight-loop-thwops.asset|
+|assets/content/sound/sounddefinitions/entities/helicopter/helicopter-flight-loop.asset|
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-m249-single.asset|
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-machine-gun-single.asset|
 |assets/content/sound/sounddefinitions/entities/helicopter/helicopter-rocket-explosion.asset|
@@ -903,8 +908,6 @@
 |assets/content/ui/gameui/ui.ingame.death.controller|
 |assets/content/ui/gameui/ui.inventory.controller|
 |assets/content/ui/gameui/ui.inventory.selecteditem.controller|
-|assets/content/ui/gameui/ui.item.dropped.controller|
-|assets/content/ui/gameui/ui.item.pickup.controller|
 |assets/content/ui/gameui/underlays/ui.damage.directional.normal.tga|
 |assets/content/ui/menuui/ui.loading.logo.tga|
 |assets/content/ui/menuui/ui.menu.news.missingbackground.jpg|
@@ -965,9 +968,23 @@
 |assets/content/vehicles/minicopter/sound/engine-loop.asset|
 |assets/content/vehicles/minicopter/sound/engine-start.asset|
 |assets/content/vehicles/minicopter/sound/engine-stop.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-damaged.asset|
 |assets/content/vehicles/minicopter/sound/rotors-loop.asset|
 |assets/content/vehicles/minicopter/sound/rotors-start.asset|
 |assets/content/vehicles/minicopter/sound/rotors-stop.asset|
+|assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.population.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged-fire-tail.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged-fire.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged-sparks.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-dismount.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-loop.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-start.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-stop.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-mount.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-phys-impact-small.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-phys-impact.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-rotor-loop.asset|
 |assets/content/vehicles/sedan_a/sound/engine_drive_loop.asset|
 |assets/content/vehicles/sedan_a/sound/idle_loop.asset|
 |assets/content/workshop/items/book.accident.sitem.asset|
@@ -1314,6 +1331,10 @@
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/sound/emit_start.asset|
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/sound/emit_stop.asset|
 |assets/prefabs/deployable/playerioents/gates/rfreceiver/sound/receive_loop.asset|
+|assets/prefabs/deployable/playerioents/generators/fuel generator/sound/grinding_loop 1.asset|
+|assets/prefabs/deployable/playerioents/generators/sound/small-generator-loop.asset|
+|assets/prefabs/deployable/playerioents/generators/sound/small-generator-start.asset|
+|assets/prefabs/deployable/playerioents/generators/sound/small-generator-stop.asset|
 |assets/prefabs/deployable/quarry/sound/mining-quarry-deploy.asset|
 |assets/prefabs/deployable/reactive target/effects/bullseye.asset|
 |assets/prefabs/deployable/reactive target/reactivetarget_deployed.skinnable.asset|
@@ -1548,6 +1569,8 @@
 |assets/prefabs/npc/bear/sound/sleeping.asset|
 |assets/prefabs/npc/bear/sound/sniff.asset|
 |assets/prefabs/npc/cargo plane/sound/cargo-plane-loop.asset|
+|assets/prefabs/npc/ch47/sound/ch47-engine-loop.asset|
+|assets/prefabs/npc/ch47/sound/ch47-rotors-loop.asset|
 |assets/prefabs/npc/ch47/sound/debris_metal_shards.asset|
 |assets/prefabs/npc/ch47/sound/debris_metal_shards_small.asset|
 |assets/prefabs/npc/flame turret/sound/flameturret-close.asset|
