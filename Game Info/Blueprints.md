@@ -133,6 +133,11 @@
 |1160881421|hitchtroughcombo|None|0|True|0|wood:750;|
 |442289265|weapon.mod.holosight|VeryRare|0|False|3|metal.refined:12;techparts:1;|
 |1751045826|hoodie|Common|100|False|2|cloth:80;sewingkit:1;|
+|60528587|horse.armor.roadsign|Rare|0|False|2|roadsigns:5;sewingkit:3;|
+|1659447559|horse.armor.wood|None|0|True|1|rope:2;wood:600;|
+|1400460850|horse.saddlebag|None|0|True|1|leather:20;|
+|1989785143|horse.shoes.advanced|Uncommon|0|False|1|metal.refined:15;|
+|-1211268013|horse.shoes.basic|None|0|True|1|metal.fragments:50;|
 |-1780802565|icepick.salvaged|Rare|0|False|2|metalpipe:1;metalblade:5;|
 |1746956556|bone.armor.suit|None|0|True|0|cloth:15;bone.fragments:150;|
 |-1102429027|heavy.plate.jacket|None|0|False|2|sheetmetal:2;metal.refined:4;|
@@ -237,7 +242,7 @@
 |-1819233322|sign.wooden.medium|Uncommon|0|True|0|wood:300;|
 |-1138208076|sign.wooden.small|Common|0|True|0|wood:150;|
 |-1850571427|weapon.mod.silencer|VeryRare|0|False|1|metal.refined:5;|
-|-855748505|weapon.mod.simplesight|None|0|False|1|metal.refined:6;|
+|-855748505|weapon.mod.simplesight|None|0|True|1|metal.refined:6;|
 |553887414|skull_fire_pit|None|0|False|0|wood:100;skull.human:1;|
 |-1754948969|sleepingbag|Uncommon|0|True|0|cloth:30;|
 |-692338819|electric.battery.rechargable.small|None|0|False|1|metal.refined:10;|
@@ -264,6 +269,7 @@
 |1951603367|electric.switch|None|0|False|1|metal.refined:5;|
 |1079279582|syringe.medical|Common|100|False|2|cloth:15;metal.fragments:10;lowgradefuel:10;|
 |593465182|table|Uncommon|0|False|0|wood:200;metal.fragments:100;|
+|1371909803|electric.teslacoil|Common|0|False|1|metal.refined:10;techparts:1;|
 |-1758372725|smg.thompson|Rare|0|False|2|metal.refined:10;wood:100;smgbody:1;metalspring:1;|
 |665332906|electric.timer|None|0|False|1|metal.refined:5;gears:1;|
 |795236088|torch|Uncommon|0|True|0|wood:30;cloth:1;lowgradefuel:1;|

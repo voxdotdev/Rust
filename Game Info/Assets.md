@@ -970,6 +970,7 @@
 |assets/bundled/prefabs/hapis/desk_greencard_hapis.prefab|
 |assets/bundled/prefabs/hapis/hapis_rock_formation_a.prefab|
 |assets/bundled/prefabs/hapis/lake.prefab|
+|assets/bundled/prefabs/hapis/lake_v2.prefab|
 |assets/bundled/prefabs/hapis/military_tunnel_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab|
@@ -1096,6 +1097,7 @@
 |assets/bundled/prefabs/ui/dialogs/ui.vendingoverlay.prefab|
 |assets/bundled/prefabs/ui/engineui.prefab|
 |assets/bundled/prefabs/ui/gameui.prefab|
+|assets/bundled/prefabs/ui/lootpanels/lootpanel.animal.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.autoturret.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bbq.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bigwheel.prefab|
@@ -7694,6 +7696,8 @@
 |assets/content/ui/button.dull.prefab|
 |assets/content/ui/button.green.prefab|
 |assets/content/ui/button.sidebar.prefab|
+|assets/content/ui/capsule-background.png|
+|assets/content/ui/death-marker@4x.png|
 |assets/content/ui/developer/developmentskin/developmentskin.guiskin|
 |assets/content/ui/developer/developmentskin/devpanelbg.png|
 |assets/content/ui/developer/developmentskin/devtab-active.png|
@@ -7717,11 +7721,28 @@
 |assets/content/ui/gameui/compass/compass_strip_hd.png|
 |assets/content/ui/gameui/craftingqueue.icon.prefab|
 |assets/content/ui/gameui/gameui.crafting.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.controller|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.open.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.controller|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.open.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.controller|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.open.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.prefab|
 |assets/content/ui/gameui/gameui.deathscreen.prefab|
 |assets/content/ui/gameui/gameui.hud.achievements.prefab|
 |assets/content/ui/gameui/gameui.hud.beltbar.prefab|
 |assets/content/ui/gameui/gameui.hud.binocularoverlay.prefab|
 |assets/content/ui/gameui/gameui.hud.chat.prefab|
+|assets/content/ui/gameui/gameui.hud.compassmapmarker.prefab|
+|assets/content/ui/gameui/gameui.hud.compassmapmarker.teamleader.prefab|
 |assets/content/ui/gameui/gameui.hud.compassstrip.prefab|
 |assets/content/ui/gameui/gameui.hud.crosshair.prefab|
 |assets/content/ui/gameui/gameui.hud.fullblack.prefab|
@@ -7731,6 +7752,7 @@
 |assets/content/ui/gameui/gameui.hud.hostilewarning.prefab|
 |assets/content/ui/gameui/gameui.hud.localvoicechat.prefab|
 |assets/content/ui/gameui/gameui.hud.map.prefab|
+|assets/content/ui/gameui/gameui.hud.map.view.prefab|
 |assets/content/ui/gameui/gameui.hud.playernames.prefab|
 |assets/content/ui/gameui/gameui.hud.powerbar.prefab|
 |assets/content/ui/gameui/gameui.hud.prefab|
@@ -7767,6 +7789,7 @@
 |assets/content/ui/gameui/ui.crosshair.tooltip.show.anim|
 |assets/content/ui/gameui/ui.crosshair.tooltip.showoptions.anim|
 |assets/content/ui/gameui/ui.deathscreen.respawn.prefab|
+|assets/content/ui/gameui/ui.deathscreen.respawn.sleepingbag.cluster.prefab|
 |assets/content/ui/gameui/ui.deathscreen.respawn.sleepingbag.prefab|
 |assets/content/ui/gameui/ui.healthtip.controller|
 |assets/content/ui/gameui/ui.healthtip.hide.anim|
@@ -7774,6 +7797,8 @@
 |assets/content/ui/gameui/ui.healthtip.update.anim|
 |assets/content/ui/gameui/ui.hud.vitals.controller|
 |assets/content/ui/gameui/ui.icon.skin.prefab|
+|assets/content/ui/gameui/ui.infopanel.ammo.prefab|
+|assets/content/ui/gameui/ui.infopanel.animalequipment.prefab|
 |assets/content/ui/gameui/ui.infopanel.armor.prefab|
 |assets/content/ui/gameui/ui.infopanel.consumable.prefab|
 |assets/content/ui/gameui/ui.infopanel.explosive.prefab|
@@ -7809,7 +7834,9 @@
 |assets/content/ui/gameui/underlays/ui.damage.directional.prefab|
 |assets/content/ui/gameui/workshopitembutton.prefab|
 |assets/content/ui/gameui/workshopitemrow.prefab|
+|assets/content/ui/gradient-circle.png|
 |assets/content/ui/hypnotized.png|
+|assets/content/ui/lock@4x.png|
 |assets/content/ui/menuui/menuui.connection.prefab|
 |assets/content/ui/menuui/menuui.inventory.craftingmodal.prefab|
 |assets/content/ui/menuui/menuui.inventory.prefab|
@@ -7864,17 +7891,23 @@
 |assets/content/ui/tiledpatterns/stripe_thin.png|
 |assets/content/ui/tiledpatterns/swirl_pattern.png|
 |assets/content/ui/title.prefab|
-|assets/content/ui/ui.background.gradient.psd|
+|assets/content/ui/ui.background.rounded.png|
+|assets/content/ui/ui.background.rounded.top.png|
 |assets/content/ui/ui.background.tile.psd|
 |assets/content/ui/ui.background.tiletex.psd|
 |assets/content/ui/ui.background.transparent.linear.psd|
 |assets/content/ui/ui.background.transparent.linearltr.tga|
 |assets/content/ui/ui.background.transparent.radial.psd|
+|assets/content/ui/ui.gradient.up.psd|
 |assets/content/ui/ui.icon.rust.png|
 |assets/content/ui/ui.playerpreview.rendertexture|
 |assets/content/ui/ui.serverimage.default.psd|
 |assets/content/ui/ui.spashscreen.psd|
 |assets/content/ui/ui.white.tga|
+|assets/content/ui/waypoint.inner.png|
+|assets/content/ui/waypoint.outline.png|
+|assets/content/ui/waypoint.outline.team.png|
+|assets/content/ui/waypoint.outline.teamtop.png|
 |assets/content/vehicles/boats/boat_engine/boat_engine.prefab|
 |assets/content/vehicles/boats/boat_engine/models/boat_engine.fbx|
 |assets/content/vehicles/boats/boat_engine/models/engine_block.fbx|
@@ -8169,6 +8202,7 @@
 |assets/icons/cart.png|
 |assets/icons/change_code.png|
 |assets/icons/check.png|
+|assets/icons/chevron_right.png|
 |assets/icons/chinook_map_blades.png|
 |assets/icons/chinook_map_body.png|
 |assets/icons/circle_closed.png|
@@ -8211,6 +8245,8 @@
 |assets/icons/facebook.png|
 |assets/icons/facepunch.png|
 |assets/icons/fall.png|
+|assets/icons/favourite_active.png|
+|assets/icons/favourite_inactive.png|
 |assets/icons/favourite_servers.png|
 |assets/icons/file.png|
 |assets/icons/flags/af.png|
@@ -8312,8 +8348,10 @@
 |assets/icons/rust.png|
 |assets/icons/safe zone.png|
 |assets/icons/save.png|
+|assets/icons/security.png|
 |assets/icons/shadow.png|
 |assets/icons/sign.png|
+|assets/icons/skull.png|
 |assets/icons/slash.png|
 |assets/icons/sleeping.png|
 |assets/icons/sleepingbag.png|
@@ -8666,10 +8704,13 @@
 |assets/prefabs/building core/wall/wall.wood.right.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.metal.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.metal.skinnable.asset|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.skinnable.asset|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.wood.item.prefab|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.wood.skinnable.asset|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-end.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-start.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-open-start.prefab|
@@ -9946,6 +9987,8 @@
 |assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.item.prefab|
+|assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-activate.asset|
+|assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-deactivate.asset|
 |assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab|
 |assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.item.prefab|
 |assets/prefabs/deployable/playerioents/gates/andswitch/andswitch.entity.prefab|
@@ -10003,6 +10046,10 @@
 |assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.item.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/sound/electric_arc_constant.asset|
+|assets/prefabs/deployable/playerioents/teslacoil/sound/electric_arc_constant_weak.asset|
+|assets/prefabs/deployable/playerioents/teslacoil/teslacoil.deployed.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/teslacoil.item.prefab|
 |assets/prefabs/deployable/playerioents/teslacoil/teslacoil.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.item.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.prefab|
@@ -11864,9 +11911,14 @@
 |assets/prefabs/tools/map/models/map.fbx|
 |assets/prefabs/tools/map/ui/ui.map.cargoship.prefab|
 |assets/prefabs/tools/map/ui/ui.map.ch47marker.prefab|
+|assets/prefabs/tools/map/ui/ui.map.deathpoint.prefab|
 |assets/prefabs/tools/map/ui/ui.map.explosion.prefab|
 |assets/prefabs/tools/map/ui/ui.map.genericradial.prefab|
 |assets/prefabs/tools/map/ui/ui.map.hackablecrate.prefab|
+|assets/prefabs/tools/map/ui/ui.map.interestpoint.prefab|
+|assets/prefabs/tools/map/ui/ui.map.leaderinterestpoint.prefab|
+|assets/prefabs/tools/map/ui/ui.map.sleepingbag.prefab|
+|assets/prefabs/tools/map/ui/ui.map.sleepingbagcluster.prefab|
 |assets/prefabs/tools/map/ui/ui.map.teamposition.prefab|
 |assets/prefabs/tools/medical syringe/animation/syring.idle.fbx|
 |assets/prefabs/tools/medical syringe/animation/syringe.attack.alt.fbx|
@@ -14201,6 +14253,11 @@
 |assets/rust.ai/agents/bear/model/bear@walk_forward.fbx|
 |assets/rust.ai/agents/bear/model/bear@winded_walk_forward.fbx|
 |assets/rust.ai/agents/bear/sound/attack.asset|
+|assets/rust.ai/agents/bear/sound/bear-attack.asset|
+|assets/rust.ai/agents/bear/sound/bear-breath.asset|
+|assets/rust.ai/agents/bear/sound/bear-death.asset|
+|assets/rust.ai/agents/bear/sound/bear-flinch.asset|
+|assets/rust.ai/agents/bear/sound/bear-sniff.asset|
 |assets/rust.ai/agents/bear/sound/bite.asset|
 |assets/rust.ai/agents/bear/sound/breathe.asset|
 |assets/rust.ai/agents/bear/sound/breathe.prefab|
@@ -14326,6 +14383,8 @@
 |assets/rust.ai/agents/horse/horse.population.asset|
 |assets/rust.ai/agents/horse/horse.prefab|
 |assets/rust.ai/agents/horse/horse.ragdoll.prefab|
+|assets/rust.ai/agents/horse/model/armour/roadsign/horseroadsignarmour.fbx|
+|assets/rust.ai/agents/horse/model/armour/wood/horsewoodarmour.fbx|
 |assets/rust.ai/agents/horse/model/headcollar/headcollar.fbx|
 |assets/rust.ai/agents/horse/model/horse.fbx|
 |assets/rust.ai/agents/horse/model/horse@attack-1.fbx|
@@ -14342,7 +14401,6 @@
 |assets/rust.ai/agents/horse/model/horse@turnpose_rear.fbx|
 |assets/rust.ai/agents/horse/model/horse@walk.fbx|
 |assets/rust.ai/agents/horse/model/horse@walk_slow.fbx|
-|assets/rust.ai/agents/horse/model/horseupdated.fbx|
 |assets/rust.ai/agents/horse/model/saddle/saddle.fbx|
 |assets/rust.ai/agents/horse/sound/attack.asset|
 |assets/rust.ai/agents/horse/sound/breathing.asset|
@@ -14356,6 +14414,8 @@
 |assets/rust.ai/agents/horse/sound/horse-mount.asset|
 |assets/rust.ai/agents/horse/sound/horse-movement-grunt.asset|
 |assets/rust.ai/agents/horse/sound/horse-pain.asset|
+|assets/rust.ai/agents/horse/sound/horse-saddle-movement-metal.asset|
+|assets/rust.ai/agents/horse/sound/horse-saddle-movement-wood.asset|
 |assets/rust.ai/agents/horse/sound/horse-saddle-movement.asset|
 |assets/rust.ai/agents/horse/sound/horse-snort.asset|
 |assets/rust.ai/agents/horse/sound/horse-whinny-large.asset|
@@ -14509,6 +14569,11 @@
 |assets/rust.ai/htn/definitions/players/scientist_turret_any.asset|
 |assets/rust.ai/htn/definitions/players/scientist_turret_lr300.asset|
 |assets/rust.ai/nextai/ridablehorse.population.asset|
+|assets/rust.ai/nextai/ridablehorse/items/horse.armor.roadsign.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.armor.wood.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.saddlebag.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.shoes.advanced.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.shoes.basic.item.prefab|
 |assets/rust.ai/nextai/sound/horse-eat.asset|
 |assets/rust.ai/nextai/testridablehorse.prefab|
 |assets/scenes/release/hapisislandterrain/roads/airfieldrunway.obj|

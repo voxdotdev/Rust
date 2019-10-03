@@ -20,7 +20,7 @@
 |-1685290200|ammo.shotgun|12 Gauge Buckshot|Ammunition|Uncommon|
 |-1036635990|ammo.shotgun.fire|12 Gauge Incendiary Shell|Ammunition|Uncommon|
 |-727717969|ammo.shotgun.slug|12 Gauge Slug|Ammunition|Uncommon|
-|1171735914|electric.andswitch|AND Switch|Misc|Common|
+|1171735914|electric.andswitch|AND Switch|Electrical|Common|
 |-1432674913|antiradpills|Anti-Radiation Pills|Medical|Common|
 |1548091822|apple|Apple|Food|Common|
 |352130972|apple.spoiled|Rotten Apple|Food|None|
@@ -28,8 +28,8 @@
 |14241751|arrow.fire|Fire Arrow|Ammunition|Common|
 |-1023065463|arrow.hv|High Velocity Arrow|Ammunition|Common|
 |-1234735557|arrow.wooden|Wooden Arrow|Ammunition|None|
-|2100007442|electric.audioalarm|Audio Alarm|Misc|Common|
-|-2139580305|autoturret|Auto Turret|Traps|VeryRare|
+|2100007442|electric.audioalarm|Audio Alarm|Electrical|Common|
+|-2139580305|autoturret|Auto Turret|Electrical|VeryRare|
 |-262590403|axe.salvaged|Salvaged Axe|Tool|Rare|
 |-2072273936|bandage|Bandage|Medical|Common|
 |-1215166612|barrelcostume|A Barrel Costume|Attire|Uncommon|
@@ -63,7 +63,7 @@
 |602741290|burlap.shirt|Burlap Shirt|Attire|None|
 |-761829530|burlap.shoes|Burlap Shoes|Attire|None|
 |-194509282|knife.butcher|Butcher Knife|Weapon|None|
-|1835946060|electric.cabletunnel|Cable Tunnel|Misc|None|
+|1835946060|electric.cabletunnel|Cable Tunnel|Electrical|None|
 |1783512007|cactusflesh|Cactus Flesh|Food|None|
 |1973165031|cakefiveyear|Birthday Cake|Tool|None|
 |-1316706473|tool.camera|Camera|Tool|VeryRare|
@@ -76,7 +76,7 @@
 |1121925526|candycane|Candy Cane|Food|None|
 |1242522330|cursedcauldron|Cursed Cauldron|Misc|None|
 |634478325|cctv.camera|CCTV Camera|Resources|VeryRare|
-|1142993169|ceilinglight|Ceiling Light|Items|Common|
+|1142993169|ceilinglight|Ceiling Light|Electrical|Common|
 |1104520648|chainsaw|Chainsaw|Tool|Rare|
 |1534542921|chair|Chair|Items|Common|
 |-1938052175|charcoal|Charcoal|Resources|None|
@@ -95,7 +95,7 @@
 |1367190888|corn|Corn|Food|Uncommon|
 |-778875547|clone.corn|Corn Clone|Food|None|
 |998894949|seed.corn|Corn Seed|Food|None|
-|-216999575|electric.counter|Counter|Misc|Uncommon|
+|-216999575|electric.counter|Counter|Electrical|Uncommon|
 |1965232394|crossbow|Crossbow|Weapon|Uncommon|
 |-321733511|crude.oil|Crude Oil|Resources|None|
 |-97956382|cupboard.tool|Tool Cupboard|Construction|None|
@@ -113,20 +113,20 @@
 |1729120840|door.hinged.wood|Wooden Door|Construction|None|
 |-1112793865|door.key|Door Key|Misc|None|
 |1409529282|door.closer|Door Closer|Construction|None|
-|-502177121|electric.doorcontroller|Door Controller|Misc|Uncommon|
+|-502177121|electric.doorcontroller|Door Controller|Electrical|Uncommon|
 |674734128|xmas.door.garland|Festive Doorway Garland|Items|None|
 |-854270928|dragondoorknocker|Dragon Door Knocker|Items|None|
 |-1519126340|dropbox|Drop Box|Items|Uncommon|
 |1401987718|ducttape|Duct Tape|Component|Uncommon|
 |1856217390|easterbasket|Egg Basket|Misc|Uncommon|
 |-979302481|easterdoorwreath|Easter Door Wreath|Items|None|
-|-939424778|electric.flasherlight|Flasher Light|Misc|Common|
-|762289806|electric.sirenlight|Siren Light|Misc|Common|
-|-690968985|electric.blocker|Blocker|Misc|Common|
-|-1448252298|electrical.branch|Electrical Branch|Misc|Common|
-|-458565393|electrical.combiner|Root Combiner|Misc|Uncommon|
-|-746647361|electrical.memorycell|Memory Cell|Misc|Uncommon|
-|492357192|electric.random.switch|RAND Switch|Misc|Common|
+|-939424778|electric.flasherlight|Flasher Light|Electrical|Common|
+|762289806|electric.sirenlight|Siren Light|Electrical|Common|
+|-690968985|electric.blocker|Blocker|Electrical|Common|
+|-1448252298|electrical.branch|Electrical Branch|Electrical|Common|
+|-458565393|electrical.combiner|Root Combiner|Electrical|Uncommon|
+|-746647361|electrical.memorycell|Memory Cell|Electrical|Uncommon|
+|492357192|electric.random.switch|RAND Switch|Electrical|Common|
 |-1878475007|explosive.satchel|Satchel Charge|Tool|Rare|
 |1248356124|explosive.timed|Timed Explosive Charge|Tool|VeryRare|
 |-592016202|explosives|Explosives|Resources|VeryRare|
@@ -160,8 +160,8 @@
 |-335089230|gates.external.high.wood|High External Wooden Gate|Construction|Rare|
 |479143914|gears|Gears|Component|Rare|
 |999690781|geiger.counter|Geiger Counter|Tool|None|
-|-295829489|electric.generator.small|Small Generator|Misc|Uncommon|
-|-1819763926|generator.wind.scrap|Wind Turbine|Items|Rare|
+|-295829489|electric.generator.small|Test Generator|Electrical|Uncommon|
+|-1819763926|generator.wind.scrap|Wind Turbine|Electrical|Rare|
 |-695124222|giantcandycanedecor|Giant Candy Decor|Misc|None|
 |282103175|giantlollipops|Giant Lollipop Decor|Misc|None|
 |21402876|burlap.gloves.new|Burlap Gloves|Attire|Common|
@@ -208,7 +208,7 @@
 |-2094954543|wood.armor.helmet|Wood Armor Helmet|Attire|Uncommon|
 |-1252059217|hatchet|Hatchet|Tool|Uncommon|
 |1266491000|hazmatsuit|Hazmat Suit|Attire|Rare|
-|-1507239837|electric.hbhfsensor|HBHF Sensor|Misc|Uncommon|
+|-1507239837|electric.hbhfsensor|HBHF Sensor|Electrical|Uncommon|
 |-886280491|clone.hemp|Hemp Clone|Food|None|
 |-237809779|seed.hemp|Hemp Seed|Food|None|
 |794356786|attire.hide.boots|Hide Boots|Attire|None|
@@ -217,6 +217,11 @@
 |1160881421|hitchtroughcombo|Hitch & Trough|Items|None|
 |442289265|weapon.mod.holosight|Holosight|Weapon|Rare|
 |1751045826|hoodie|Hoodie|Attire|Uncommon|
+|60528587|horse.armor.roadsign|Roadsign Horse Armor|Attire|None|
+|1659447559|horse.armor.wood|Wooden Horse Armor|Attire|None|
+|1400460850|horse.saddlebag|Saddle bag|Attire|None|
+|1989785143|horse.shoes.advanced|High Quality Horse Shoes|Attire|None|
+|-1211268013|horse.shoes.basic|Basic Horse Shoes|Attire|None|
 |-1982036270|hq.metal.ore|High Quality Metal Ore|Resources|None|
 |-682687162|humanmeat.burned|Burnt Human Meat|Food|None|
 |1536610005|humanmeat.cooked|Cooked Human Meat|Food|None|
@@ -239,10 +244,10 @@
 |-316250604|ladder.wooden.wall|Wooden Ladder|Construction|Rare|
 |-1663759755|trap.landmine|Land Mine|Traps|Rare|
 |1658229558|lantern|Lantern|Items|Common|
-|553270375|electric.battery.rechargable.large|Large Rechargable Battery|Misc|Uncommon|
+|553270375|electric.battery.rechargable.large|Large Rechargable Battery|Electrical|Uncommon|
 |-489848205|largecandles|Large Candle Set|Misc|None|
 |254522515|largemedkit|Large Medkit|Medical|Uncommon|
-|-798293154|electric.laserdetector|Laser Detector|Misc|Uncommon|
+|-798293154|electric.laserdetector|Laser Detector|Electrical|Uncommon|
 |-132516482|weapon.mod.lasersight|Weapon Lasersight|Weapon|Rare|
 |1381010055|leather|Leather|Resources|Uncommon|
 |1159991980|lock.code|Code Lock|Construction|None|
@@ -304,7 +309,7 @@
 |1953903201|pistol.nailgun|Nailgun|Weapon|Uncommon|
 |-2097376851|ammo.nailgun.nails|Nailgun Nails|Ammunition|None|
 |1414245162|note|Note|Misc|None|
-|-1286302544|electric.orswitch|OR Switch|Misc|Common|
+|-1286302544|electric.orswitch|OR Switch|Electrical|Common|
 |-126305173|easter.paintedeggs|Painted Egg|Misc|None|
 |1992974553|burlap.trousers|Burlap Trousers|Attire|None|
 |237239288|pants|Pants|Attire|Uncommon|
@@ -326,7 +331,7 @@
 |-1622660759|xmas.present.large|Large Present|Misc|None|
 |756517185|xmas.present.medium|Medium Present|Misc|None|
 |-722241321|xmas.present.small|Small Present|Misc|None|
-|-2049214035|electric.pressurepad|Pressure Pad|Misc|Common|
+|-2049214035|electric.pressurepad|Pressure Pad|Electrical|Common|
 |-1673693549|propanetank|Empty Propane Tank|Component|Uncommon|
 |-567909622|pumpkin|Pumpkin|Food|Uncommon|
 |1898094925|clone.pumpkin|Pumpkin Plant Clone|Food|None|
@@ -336,9 +341,9 @@
 |803222026|box.repair.bench|Repair Bench|Items|None|
 |-1861522751|research.table|Research Table|Items|Rare|
 |-544317637|researchpaper|Research Paper|Resources|None|
-|-1044468317|electric.rf.broadcaster|RF Broadcaster|Misc|Common|
-|-566907190|rf_pager|RF Pager|Misc|Common|
-|888415708|electric.rf.receiver|RF Receiver|Misc|Common|
+|-1044468317|electric.rf.broadcaster|RF Broadcaster|Electrical|Common|
+|-566907190|rf_pager|RF Pager|Electrical|Common|
+|888415708|electric.rf.receiver|RF Receiver|Electrical|Common|
 |176787552|riflebody|Rifle Body|Component|VeryRare|
 |-2002277461|roadsign.jacket|Road Sign Jacket|Attire|Uncommon|
 |1199391518|roadsigns|Road Signs|Component|Uncommon|
@@ -398,14 +403,14 @@
 |-1138208076|sign.wooden.small|Small Wooden Sign|Items|Common|
 |-1850571427|weapon.mod.silencer|Silencer|Weapon|Uncommon|
 |1757265204|easter.silveregg|Silver Egg|Misc|None|
-|-282113991|electric.simplelight|Simple Light|Misc|None|
+|-282113991|electric.simplelight|Simple Light|Electrical|None|
 |-855748505|weapon.mod.simplesight|Simple Handmade Sight|Weapon|Uncommon|
 |553887414|skull_fire_pit|Skull Fire Pit|Items|None|
 |996293980|skull.human|Human Skull|Resources|None|
 |2048317869|skull.wolf|Wolf Skull|Resources|None|
 |-1754948969|sleepingbag|Sleeping Bag|Items|Uncommon|
-|-692338819|electric.battery.rechargable.small|Small Rechargable Battery|Misc|Common|
-|1849887541|electric.fuelgenerator.small|Small Generator|Misc|Uncommon|
+|-692338819|electric.battery.rechargable.small|Small Rechargable Battery|Electrical|Common|
+|1849887541|electric.fuelgenerator.small|Small Generator|Electrical|Uncommon|
 |-1293296287|small.oil.refinery|Small Oil Refinery|Items|Uncommon|
 |-369760990|stash.small|Small Stash|Items|None|
 |-2058362263|smallcandles|Small Candle Set|Misc|None|
@@ -417,14 +422,14 @@
 |-363689972|snowball|Snowball|Weapon|None|
 |1358643074|snowmachine|Snow Machine|Misc|None|
 |1629293099|snowman|Snowman|Items|None|
-|2090395347|electric.solarpanel.large|Large Solar Panel|Misc|Uncommon|
+|2090395347|electric.solarpanel.large|Large Solar Panel|Electrical|Uncommon|
 |-41440462|shotgun.spas12|Spas-12 Shotgun|Weapon|None|
 |1602646136|spear.stone|Stone Spear|Weapon|Uncommon|
 |1540934679|spear.wooden|Wooden Spear|Weapon|None|
 |882559853|spiderweb|Spider Webs|Misc|None|
 |-92759291|spikes.floor|Wooden Floor Spikes|Traps|Common|
 |-1100422738|spinner.wheel|Spinning wheel|Items|Common|
-|-563624462|electric.splitter|Splitter|Misc|Common|
+|-563624462|electric.splitter|Splitter|Electrical|Common|
 |1885488976|spookyspeaker|Spooky Speaker|Misc|None|
 |-1021495308|metalspring|Metal Spring|Component|Rare|
 |642482233|sticks|Sticks|Component|Uncommon|
@@ -439,14 +444,15 @@
 |1397052267|supply.signal|Supply Signal|Tool|VeryRare|
 |1975934948|surveycharge|Survey Charge|Tool|None|
 |559147458|fishtrap.small|Survival Fish Trap|Items|None|
-|1951603367|electric.switch|Switch|Misc|Common|
+|1951603367|electric.switch|Switch|Electrical|Common|
 |1079279582|syringe.medical|Medical Syringe|Medical|Uncommon|
 |593465182|table|Table|Items|Common|
 |1523195708|targeting.computer|Targeting Computer|Resources|VeryRare|
 |2019042823|tarp|Tarp|Component|Uncommon|
 |73681876|techparts|Tech Trash|Component|VeryRare|
+|1371909803|electric.teslacoil|Tesla Coil|Electrical|Common|
 |-1758372725|smg.thompson|Thompson|Weapon|Rare|
-|665332906|electric.timer|Timer|Misc|Common|
+|665332906|electric.timer|Timer|Electrical|Common|
 |795236088|torch|Torch|Tool|None|
 |-1667224349|xmas.decoration.baubels|Decorative Baubels|Misc|None|
 |-209869746|xmas.decoration.candycanes|Decorative Plastic Candy Canes|Misc|None|
@@ -481,7 +487,7 @@
 |-119235651|waterjug|Water Jug|Food|Uncommon|
 |2114754781|water.purifier|Water Purifier|Items|None|
 |-1379835144|xmas.window.garland|Festive Window Garland|Items|None|
-|-144417939|wiretool|Wire Tool|Misc|None|
+|-144417939|wiretool|Wire Tool|Electrical|None|
 |-151838493|wood|Wood|Resources|None|
 |418081930|wood.armor.jacket|Wood Chestplate|Attire|Uncommon|
 |832133926|wood.armor.pants|Wood Armor Pants|Attire|Uncommon|
@@ -490,4 +496,4 @@
 |-1607980696|workbench3|Work Bench Level 3|Items|Rare|
 |1058261682|xmas.lightstring|Christmas Lights|Items|None|
 |794443127|xmas.tree|Christmas Tree|Items|None|
-|1293102274|electric.xorswitch|XOR Switch|Misc|Common|
+|1293102274|electric.xorswitch|XOR Switch|Electrical|Common|

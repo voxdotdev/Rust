@@ -3829,6 +3829,15 @@
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100_col_temp.fbx|
 |assets/content/structures/wooden_walkway/meshes/wooden_walkway_stairs_100_navmesh.fbx|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.open.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.open.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.close.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.idle.anim|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.open.anim|
 |assets/content/ui/gameui/ui.crosshair.hide.anim|
 |assets/content/ui/gameui/ui.crosshair.show.anim|
 |assets/content/ui/gameui/ui.crosshair.tooltip.hide.anim|
@@ -5975,6 +5984,8 @@
 |assets/rust.ai/agents/chicken/model/chicken@testanim.fbx|
 |assets/rust.ai/agents/chicken/model/chicken@walk.fbx|
 |assets/rust.ai/agents/chicken/model/chicken@walk_eating.fbx|
+|assets/rust.ai/agents/horse/model/armour/roadsign/horseroadsignarmour.fbx|
+|assets/rust.ai/agents/horse/model/armour/wood/horsewoodarmour.fbx|
 |assets/rust.ai/agents/horse/model/headcollar/headcollar.fbx|
 |assets/rust.ai/agents/horse/model/horse.fbx|
 |assets/rust.ai/agents/horse/model/horse@attack-1.fbx|
@@ -5991,7 +6002,6 @@
 |assets/rust.ai/agents/horse/model/horse@turnpose_rear.fbx|
 |assets/rust.ai/agents/horse/model/horse@walk.fbx|
 |assets/rust.ai/agents/horse/model/horse@walk_slow.fbx|
-|assets/rust.ai/agents/horse/model/horseupdated.fbx|
 |assets/rust.ai/agents/horse/model/saddle/saddle.fbx|
 |assets/rust.ai/agents/stag/model/stag.fbx|
 |assets/rust.ai/agents/stag/model/stag@attack-1.fbx|

@@ -21,6 +21,8 @@
 |assets/content/image effects/lens dirt/lensdirt8.png|
 |assets/content/image effects/lens dirt/lensdirt9.png|
 |assets/content/materials/highlight.png|
+|assets/content/ui/capsule-background.png|
+|assets/content/ui/death-marker@4x.png|
 |assets/content/ui/developer/developmentskin/devpanelbg.png|
 |assets/content/ui/developer/developmentskin/devtab-active.png|
 |assets/content/ui/developer/developmentskin/devtab-bright.png|
@@ -30,7 +32,9 @@
 |assets/content/ui/gameui/compass/compass_strip.png|
 |assets/content/ui/gameui/compass/compass_strip_hd.png|
 |assets/content/ui/gameui/ui.crosshair.circle.png|
+|assets/content/ui/gradient-circle.png|
 |assets/content/ui/hypnotized.png|
+|assets/content/ui/lock@4x.png|
 |assets/content/ui/menuui/rustlogo-blurred.png|
 |assets/content/ui/menuui/rustlogo-normal-transparent.png|
 |assets/content/ui/menuui/ui.logo.big.png|
@@ -51,7 +55,13 @@
 |assets/content/ui/tiledpatterns/stripe_thick.png|
 |assets/content/ui/tiledpatterns/stripe_thin.png|
 |assets/content/ui/tiledpatterns/swirl_pattern.png|
+|assets/content/ui/ui.background.rounded.png|
+|assets/content/ui/ui.background.rounded.top.png|
 |assets/content/ui/ui.icon.rust.png|
+|assets/content/ui/waypoint.inner.png|
+|assets/content/ui/waypoint.outline.png|
+|assets/content/ui/waypoint.outline.team.png|
+|assets/content/ui/waypoint.outline.teamtop.png|
 |assets/icons/add.png|
 |assets/icons/ammunition.png|
 |assets/icons/arrow_right.png|
@@ -71,6 +81,7 @@
 |assets/icons/cart.png|
 |assets/icons/change_code.png|
 |assets/icons/check.png|
+|assets/icons/chevron_right.png|
 |assets/icons/chinook_map_blades.png|
 |assets/icons/chinook_map_body.png|
 |assets/icons/circle_closed.png|
@@ -113,6 +124,8 @@
 |assets/icons/facebook.png|
 |assets/icons/facepunch.png|
 |assets/icons/fall.png|
+|assets/icons/favourite_active.png|
+|assets/icons/favourite_inactive.png|
 |assets/icons/favourite_servers.png|
 |assets/icons/file.png|
 |assets/icons/flags/af.png|
@@ -214,8 +227,10 @@
 |assets/icons/rust.png|
 |assets/icons/safe zone.png|
 |assets/icons/save.png|
+|assets/icons/security.png|
 |assets/icons/shadow.png|
 |assets/icons/sign.png|
+|assets/icons/skull.png|
 |assets/icons/slash.png|
 |assets/icons/sleeping.png|
 |assets/icons/sleepingbag.png|

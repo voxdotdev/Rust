@@ -938,6 +938,7 @@
 |assets/bundled/prefabs/hapis/desk_greencard_hapis.prefab|
 |assets/bundled/prefabs/hapis/hapis_rock_formation_a.prefab|
 |assets/bundled/prefabs/hapis/lake.prefab|
+|assets/bundled/prefabs/hapis/lake_v2.prefab|
 |assets/bundled/prefabs/hapis/military_tunnel_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab|
 |assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab|
@@ -1064,6 +1065,7 @@
 |assets/bundled/prefabs/ui/dialogs/ui.vendingoverlay.prefab|
 |assets/bundled/prefabs/ui/engineui.prefab|
 |assets/bundled/prefabs/ui/gameui.prefab|
+|assets/bundled/prefabs/ui/lootpanels/lootpanel.animal.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.autoturret.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bbq.prefab|
 |assets/bundled/prefabs/ui/lootpanels/lootpanel.bigwheel.prefab|
@@ -2933,11 +2935,16 @@
 |assets/content/ui/gameui/achievements/achievmentitem.prefab|
 |assets/content/ui/gameui/craftingqueue.icon.prefab|
 |assets/content/ui/gameui/gameui.crafting.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.prefab|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.prefab|
 |assets/content/ui/gameui/gameui.deathscreen.prefab|
 |assets/content/ui/gameui/gameui.hud.achievements.prefab|
 |assets/content/ui/gameui/gameui.hud.beltbar.prefab|
 |assets/content/ui/gameui/gameui.hud.binocularoverlay.prefab|
 |assets/content/ui/gameui/gameui.hud.chat.prefab|
+|assets/content/ui/gameui/gameui.hud.compassmapmarker.prefab|
+|assets/content/ui/gameui/gameui.hud.compassmapmarker.teamleader.prefab|
 |assets/content/ui/gameui/gameui.hud.compassstrip.prefab|
 |assets/content/ui/gameui/gameui.hud.crosshair.prefab|
 |assets/content/ui/gameui/gameui.hud.fullblack.prefab|
@@ -2947,6 +2954,7 @@
 |assets/content/ui/gameui/gameui.hud.hostilewarning.prefab|
 |assets/content/ui/gameui/gameui.hud.localvoicechat.prefab|
 |assets/content/ui/gameui/gameui.hud.map.prefab|
+|assets/content/ui/gameui/gameui.hud.map.view.prefab|
 |assets/content/ui/gameui/gameui.hud.playernames.prefab|
 |assets/content/ui/gameui/gameui.hud.powerbar.prefab|
 |assets/content/ui/gameui/gameui.hud.prefab|
@@ -2970,8 +2978,11 @@
 |assets/content/ui/gameui/ui.blueprint.craft.row.prefab|
 |assets/content/ui/gameui/ui.chat.item.prefab|
 |assets/content/ui/gameui/ui.deathscreen.respawn.prefab|
+|assets/content/ui/gameui/ui.deathscreen.respawn.sleepingbag.cluster.prefab|
 |assets/content/ui/gameui/ui.deathscreen.respawn.sleepingbag.prefab|
 |assets/content/ui/gameui/ui.icon.skin.prefab|
+|assets/content/ui/gameui/ui.infopanel.ammo.prefab|
+|assets/content/ui/gameui/ui.infopanel.animalequipment.prefab|
 |assets/content/ui/gameui/ui.infopanel.armor.prefab|
 |assets/content/ui/gameui/ui.infopanel.consumable.prefab|
 |assets/content/ui/gameui/ui.infopanel.explosive.prefab|
@@ -3876,6 +3887,8 @@
 |assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.item.prefab|
 |assets/prefabs/deployable/playerioents/splitter/splitter.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/teslacoil.deployed.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/teslacoil.item.prefab|
 |assets/prefabs/deployable/playerioents/teslacoil/teslacoil.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.item.prefab|
 |assets/prefabs/deployable/playerioents/timers/timer.prefab|
@@ -4813,9 +4826,14 @@
 |assets/prefabs/tools/map/map.worldmodel.prefab|
 |assets/prefabs/tools/map/ui/ui.map.cargoship.prefab|
 |assets/prefabs/tools/map/ui/ui.map.ch47marker.prefab|
+|assets/prefabs/tools/map/ui/ui.map.deathpoint.prefab|
 |assets/prefabs/tools/map/ui/ui.map.explosion.prefab|
 |assets/prefabs/tools/map/ui/ui.map.genericradial.prefab|
 |assets/prefabs/tools/map/ui/ui.map.hackablecrate.prefab|
+|assets/prefabs/tools/map/ui/ui.map.interestpoint.prefab|
+|assets/prefabs/tools/map/ui/ui.map.leaderinterestpoint.prefab|
+|assets/prefabs/tools/map/ui/ui.map.sleepingbag.prefab|
+|assets/prefabs/tools/map/ui/ui.map.sleepingbagcluster.prefab|
 |assets/prefabs/tools/map/ui/ui.map.teamposition.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_friend.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_self.prefab|
@@ -5909,6 +5927,11 @@
 |assets/rust.ai/agents/zombie/zombie.corpse.prefab|
 |assets/rust.ai/agents/zombie/zombie.prefab|
 |assets/rust.ai/agents/zombie/zombie.ragdoll.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.armor.roadsign.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.armor.wood.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.saddlebag.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.shoes.advanced.item.prefab|
+|assets/rust.ai/nextai/ridablehorse/items/horse.shoes.basic.item.prefab|
 |assets/rust.ai/nextai/testridablehorse.prefab|
 |assets/scripts/entity/misc/visualstoragecontainer/visualshelvestest.prefab|
 |assets/unimplemented/fishing_rod/fishing_rod.worldmodel.prefab|

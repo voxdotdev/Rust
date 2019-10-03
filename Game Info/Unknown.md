@@ -896,6 +896,9 @@
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.divider.controller|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.stat.controller|
+|assets/content/ui/gameui/gameui.deathscreen.infographic.statimage.controller|
 |assets/content/ui/gameui/notices/item-unlock-notice.asset|
 |assets/content/ui/gameui/notices/level-up-notice.asset|
 |assets/content/ui/gameui/notices/notice-close.asset|
@@ -913,12 +916,12 @@
 |assets/content/ui/menuui/ui.menu.news.missingbackground.jpg|
 |assets/content/ui/overlay_bleeding_height.tga|
 |assets/content/ui/overlay_bleeding_normal.tga|
-|assets/content/ui/ui.background.gradient.psd|
 |assets/content/ui/ui.background.tile.psd|
 |assets/content/ui/ui.background.tiletex.psd|
 |assets/content/ui/ui.background.transparent.linear.psd|
 |assets/content/ui/ui.background.transparent.linearltr.tga|
 |assets/content/ui/ui.background.transparent.radial.psd|
+|assets/content/ui/ui.gradient.up.psd|
 |assets/content/ui/ui.playerpreview.rendertexture|
 |assets/content/ui/ui.serverimage.default.psd|
 |assets/content/ui/ui.spashscreen.psd|
@@ -1101,6 +1104,9 @@
 |assets/localization/zh-cn/engine.json|
 |assets/localization/zh-tw/engine.json|
 |assets/manifest.asset|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.metal.skinnable.asset|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.skinnable.asset|
+|assets/prefabs/building/door.double.hinged/door.double.hinged.wood.skinnable.asset|
 |assets/prefabs/building/door.hinged/door.hinged.metal.skinnable.asset|
 |assets/prefabs/building/door.hinged/door.hinged.toptier.skinnable.asset|
 |assets/prefabs/building/door.hinged/door.hinged.wood.skinnable.asset|
@@ -1327,6 +1333,8 @@
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/sound/detect_down.asset|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/sound/detect_up.asset|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/sound/idle.asset|
+|assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-activate.asset|
+|assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-deactivate.asset|
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/sound/emit_loop.asset|
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/sound/emit_start.asset|
 |assets/prefabs/deployable/playerioents/gates/rfbroadcaster/sound/emit_stop.asset|
@@ -1335,6 +1343,8 @@
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-loop.asset|
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-start.asset|
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-stop.asset|
+|assets/prefabs/deployable/playerioents/teslacoil/sound/electric_arc_constant.asset|
+|assets/prefabs/deployable/playerioents/teslacoil/sound/electric_arc_constant_weak.asset|
 |assets/prefabs/deployable/quarry/sound/mining-quarry-deploy.asset|
 |assets/prefabs/deployable/reactive target/effects/bullseye.asset|
 |assets/prefabs/deployable/reactive target/reactivetarget_deployed.skinnable.asset|
@@ -2086,6 +2096,11 @@
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-water.asset|
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-wood.asset|
 |assets/rust.ai/agents/bear/sound/attack.asset|
+|assets/rust.ai/agents/bear/sound/bear-attack.asset|
+|assets/rust.ai/agents/bear/sound/bear-breath.asset|
+|assets/rust.ai/agents/bear/sound/bear-death.asset|
+|assets/rust.ai/agents/bear/sound/bear-flinch.asset|
+|assets/rust.ai/agents/bear/sound/bear-sniff.asset|
 |assets/rust.ai/agents/bear/sound/bite.asset|
 |assets/rust.ai/agents/bear/sound/breathe.asset|
 |assets/rust.ai/agents/bear/sound/breathe_heavy.asset|
@@ -2140,6 +2155,8 @@
 |assets/rust.ai/agents/horse/sound/horse-mount.asset|
 |assets/rust.ai/agents/horse/sound/horse-movement-grunt.asset|
 |assets/rust.ai/agents/horse/sound/horse-pain.asset|
+|assets/rust.ai/agents/horse/sound/horse-saddle-movement-metal.asset|
+|assets/rust.ai/agents/horse/sound/horse-saddle-movement-wood.asset|
 |assets/rust.ai/agents/horse/sound/horse-saddle-movement.asset|
 |assets/rust.ai/agents/horse/sound/horse-snort.asset|
 |assets/rust.ai/agents/horse/sound/horse-whinny-large.asset|
