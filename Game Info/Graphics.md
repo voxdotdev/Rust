@@ -37,6 +37,7 @@
 |assets/content/ui/lock@4x.png|
 |assets/content/ui/menuui/rustlogo-blurred.png|
 |assets/content/ui/menuui/rustlogo-normal-transparent.png|
+|assets/content/ui/menuui/ui.logo.big.halloween.png|
 |assets/content/ui/menuui/ui.logo.big.png|
 |assets/content/ui/menuui/ui.menu.logo.png|
 |assets/content/ui/menuui/ui.menu.rateus.background.png|
@@ -176,6 +177,7 @@
 |assets/icons/hot.png|
 |assets/icons/ignite.png|
 |assets/icons/info.png|
+|assets/icons/instagram-logo.png|
 |assets/icons/inventory.png|
 |assets/icons/isbroken.png|
 |assets/icons/iscooking.png|

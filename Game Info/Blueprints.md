@@ -151,7 +151,7 @@
 |-1663759755|trap.landmine|Rare|0|False|2|metal.fragments:50;gunpowder:100;|
 |1658229558|lantern|Uncommon|0|True|0|metal.fragments:25;lowgradefuel:15;|
 |553270375|electric.battery.rechargable.large|None|0|False|2|metal.refined:50;|
-|-489848205|largecandles|None|0|False|0|fat.animal:35;cloth:8;|
+|-489848205|largecandles|None|0|False|0|fat.animal:20;cloth:10;|
 |254522515|largemedkit|Uncommon|0|False|2|syringe.medical:2;lowgradefuel:50;|
 |-798293154|electric.laserdetector|None|0|False|1|metal.refined:15;|
 |-132516482|weapon.mod.lasersight|VeryRare|0|False|3|metal.refined:3;techparts:1;|
@@ -243,13 +243,14 @@
 |-1138208076|sign.wooden.small|Common|0|True|0|wood:150;|
 |-1850571427|weapon.mod.silencer|VeryRare|0|False|1|metal.refined:5;|
 |-855748505|weapon.mod.simplesight|None|0|True|1|metal.refined:6;|
+|-216116642|skulldoorknocker|None|0|False|0|metal.fragments:20;|
 |553887414|skull_fire_pit|None|0|False|0|wood:100;skull.human:1;|
 |-1754948969|sleepingbag|Uncommon|0|True|0|cloth:30;|
 |-692338819|electric.battery.rechargable.small|None|0|False|1|metal.refined:10;|
 |1849887541|electric.fuelgenerator.small|None|0|False|2|metal.refined:15;gears:2;|
 |-1293296287|small.oil.refinery|Uncommon|0|False|2|wood:200;metal.fragments:500;lowgradefuel:250;|
 |-369760990|stash.small|Common|0|True|0|cloth:10;|
-|-2058362263|smallcandles|None|0|False|0|fat.animal:20;cloth:5;|
+|-2058362263|smallcandles|None|0|False|0|fat.animal:10;cloth:5;|
 |1796682209|smg.2|VeryRare|0|False|2|metal.refined:8;smgbody:1;metalspring:1;|
 |1358643074|snowmachine|None|0|False|1|metal.fragments:125;lowgradefuel:30;metalpipe:1;|
 |1629293099|snowman|None|0|False|0|charcoal:50;cloth:20;metal.fragments:20;|
@@ -264,6 +265,7 @@
 |171931394|stone.pickaxe|Common|0|True|0|wood:200;stones:100;|
 |-1583967946|stonehatchet|Common|0|True|0|wood:200;stones:100;|
 |2104517339|strobelight|None|0|False|0|metal.fragments:100;metal.refined:2;|
+|-1785231475|halloween.surgeonsuit|None|0|False|1|cloth:60;sewingkit:3;|
 |1975934948|surveycharge|Uncommon|0|False|2|gunpowder:30;cloth:5;metal.fragments:10;lowgradefuel:20;|
 |559147458|fishtrap.small|Common|0|True|0|wood:200;cloth:5;|
 |1951603367|electric.switch|None|0|False|1|metal.refined:5;|

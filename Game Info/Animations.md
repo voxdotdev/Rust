@@ -4155,6 +4155,8 @@
 |assets/prefabs/clothes/hair/hair_style05/male_hairstyle_05.fbx|
 |assets/prefabs/clothes/hair/pubichair/pubic_hair_female_01.fbx|
 |assets/prefabs/clothes/hair/pubichair/pubic_hair_male_01.fbx|
+|assets/prefabs/clothes/halloween.mummy/halloweenmummy.fbx|
+|assets/prefabs/clothes/halloween.mummy/halloweenmummy_unposed.fbx|
 |assets/prefabs/clothes/halloween.scarecrow/scarecrow.fbx|
 |assets/prefabs/clothes/halloween.scarecrow/scarecrowhead.fbx|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.fbx|
@@ -4753,9 +4755,17 @@
 |assets/prefabs/misc/easter/painted eggs/models/paintedegg1.fbx|
 |assets/prefabs/misc/easter/painted eggs/models/paintedegg2.fbx|
 |assets/prefabs/misc/easter/painted eggs/models/paintedegg3.fbx|
+|assets/prefabs/misc/halloween/candies/candy_apple/candyapple.fbx|
+|assets/prefabs/misc/halloween/candies/candy_apple/candyapple_gibs.fbx|
+|assets/prefabs/misc/halloween/candies/candy_corn/candy_corn.fbx|
+|assets/prefabs/misc/halloween/candies/candy_corn/candycorn_gibs.fbx|
+|assets/prefabs/misc/halloween/candies/chocolate_bar/chocolate_bar.fbx|
+|assets/prefabs/misc/halloween/candies/chocolate_bar/chocolate_bar_gibs.fbx|
 |assets/prefabs/misc/halloween/coffin/models/coffin.fbx|
 |assets/prefabs/misc/halloween/coffin/models/coffin_col.fbx|
 |assets/prefabs/misc/halloween/coffin/models/coffin_gibs.fbx|
+|assets/prefabs/misc/halloween/condemned_door_barrier/model/condemned_door_barrier.fbx|
+|assets/prefabs/misc/halloween/condemned_door_barrier/model/condemned_door_barrier_gibs.fbx|
 |assets/prefabs/misc/halloween/cursed_cauldron/models/cursed_cauldron.fbx|
 |assets/prefabs/misc/halloween/cursed_cauldron/models/cursed_cauldron_liquid.fbx|
 |assets/prefabs/misc/halloween/gravestone/gravestone.fbx|
@@ -4766,16 +4776,24 @@
 |assets/prefabs/misc/halloween/graveyard_fence/models/graveyard_fence_pillar_col.fbx|
 |assets/prefabs/misc/halloween/graveyard_fence/models/graveyard_fence_pillar_gibs.fbx|
 |assets/prefabs/misc/halloween/metal cross/metal_cross.fbx|
+|assets/prefabs/misc/halloween/pumpkin_bucket/model/candycorn_pile.fbx|
+|assets/prefabs/misc/halloween/pumpkin_bucket/model/v_pumpkin_bucket.fbx|
+|assets/prefabs/misc/halloween/pumpkin_bucket/model/w_pumpkin_bucket.fbx|
 |assets/prefabs/misc/halloween/scarecrow/models/scarecrow.fbx|
 |assets/prefabs/misc/halloween/scarecrow/models/scarecrow_col.fbx|
 |assets/prefabs/misc/halloween/skeleton arms/models/skeleton_arms.fbx|
 |assets/prefabs/misc/halloween/skeleton arms/models/skeleton_arms_col.fbx|
+|assets/prefabs/misc/halloween/skull_door_knocker/model/skull_door_knocker.fbx|
 |assets/prefabs/misc/halloween/skull_fire_pit/models/skull_fire_pit.fbx|
 |assets/prefabs/misc/halloween/skull_fire_pit/models/skull_fire_pit.gibs.fbx|
 |assets/prefabs/misc/halloween/skull_fire_pit/models/skull_fire_pit_col.fbx|
 |assets/prefabs/misc/halloween/spidereggs/spider_eggs.fbx|
 |assets/prefabs/misc/halloween/spiderweb/models/spiderweb.fbx|
 |assets/prefabs/misc/halloween/spiderweb/models/spiderweb_guide.fbx|
+|assets/prefabs/misc/halloween/surgeon_outfit/models/surgeon_outfit.fbx|
+|assets/prefabs/misc/halloween/surgeon_outfit/models/surgeon_outfit_split.fbx|
+|assets/prefabs/misc/halloween/surgeon_outfit/models/surgeon_outfit_vm.fbx|
+|assets/prefabs/misc/halloween/surgeon_outfit/models/surgeon_outfit_wm.fbx|
 |assets/prefabs/misc/halloween/wooden cross/wooden_cross.fbx|
 |assets/prefabs/misc/junkpile/models/junkpile_base.fbx|
 |assets/prefabs/misc/junkpile/models/junkpile_base_col.fbx|

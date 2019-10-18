@@ -96,6 +96,7 @@
 |-778875547|clone.corn|Corn Clone|Food|None|
 |998894949|seed.corn|Corn Seed|Food|None|
 |-216999575|electric.counter|Counter|Electrical|Uncommon|
+|1189981699|cratecostume|Crate Costume|Attire|Uncommon|
 |1965232394|crossbow|Crossbow|Weapon|Uncommon|
 |-321733511|crude.oil|Crude Oil|Resources|None|
 |-97956382|cupboard.tool|Tool Cupboard|Construction|None|
@@ -182,9 +183,10 @@
 |-1759188988|habrepair|Hab Repair|Misc|None|
 |1070894649|male_hairstyle_01|m-hairstyle-1|Attire|None|
 |649305917|female_hairstyle_02|f-hairstyle-2|Attire|None|
-|-295117143|halloween.lootbag|Halloween Loot Bag|Misc|None|
-|273951840|scarecrow.suit|WIP|Attire|Rare|
+|277730763|halloween.mummysuit|Mummy Suit|Attire|Rare|
+|273951840|scarecrow.suit|Scarecrow Suit|Attire|Rare|
 |809942731|scarecrowhead|Scarecrow Wrap|Attire|None|
+|-888153050|halloween.candy|Halloween Candy|Misc|None|
 |3222790|attire.hide.helterneck|Hide Halterneck|Attire|None|
 |200773292|hammer|Hammer|Tool|None|
 |-1506397857|hammer.salvaged|Salvaged Hammer|Tool|Uncommon|
@@ -254,6 +256,9 @@
 |-850982208|lock.key|Key Lock|Construction|None|
 |-110921842|locker|Locker|Items|Uncommon|
 |-1469578201|longsword|Longsword|Weapon|Uncommon|
+|479292118|halloween.lootbag.large|Large Loot Bag|Misc|None|
+|1899610628|halloween.lootbag.medium|Medium Loot Bag|Misc|None|
+|1319617282|halloween.lootbag.small|Small Loot Bag|Misc|None|
 |-1812555177|rifle.lr300|LR-300 Assault Rifle|Weapon|VeryRare|
 |-2069578888|lmg.m249|M249|Weapon|VeryRare|
 |28201841|rifle.m39|M39 Rifle|Weapon|Rare|
@@ -334,6 +339,7 @@
 |-2049214035|electric.pressurepad|Pressure Pad|Electrical|Common|
 |-1673693549|propanetank|Empty Propane Tank|Component|Uncommon|
 |-567909622|pumpkin|Pumpkin|Food|Uncommon|
+|1346158228|pumpkinbasket|Pumpkin Bucket|Misc|Uncommon|
 |1898094925|clone.pumpkin|Pumpkin Plant Clone|Food|None|
 |-1511285251|seed.pumpkin|Pumpkin Seed|Food|None|
 |1373971859|pistol.python|Python Revolver|Weapon|Rare|
@@ -405,6 +411,7 @@
 |1757265204|easter.silveregg|Silver Egg|Misc|None|
 |-282113991|electric.simplelight|Simple Light|Electrical|None|
 |-855748505|weapon.mod.simplesight|Simple Handmade Sight|Weapon|Uncommon|
+|-216116642|skulldoorknocker|Skull Door Knocker|Items|None|
 |553887414|skull_fire_pit|Skull Fire Pit|Items|None|
 |996293980|skull.human|Human Skull|Resources|None|
 |2048317869|skull.wolf|Wolf Skull|Resources|None|
@@ -442,6 +449,7 @@
 |-1581843485|sulfur|Sulfur|Resources|Rare|
 |-1157596551|sulfur.ore|Sulfur Ore|Resources|Rare|
 |1397052267|supply.signal|Supply Signal|Tool|VeryRare|
+|-1785231475|halloween.surgeonsuit|Surgeon Scrubs|Attire|Rare|
 |1975934948|surveycharge|Survey Charge|Tool|None|
 |559147458|fishtrap.small|Survival Fish Trap|Items|None|
 |1951603367|electric.switch|Switch|Electrical|Common|
