@@ -1,68 +1,5 @@
 |Name|
 |:-|
-|assets/bundled/prefabs/fx/lightning/fx-lightning.png|
-|assets/bundled/prefabs/fx/lightning/fx-lightning2.png|
-|assets/bundled/prefabs/fx/lightning/fx-lightning3.png|
-|assets/bundled/prefabs/fx/lightning/fx-lightning4.png|
-|assets/content/image effects/lens dirt/lensdirt1.png|
-|assets/content/image effects/lens dirt/lensdirt10.png|
-|assets/content/image effects/lens dirt/lensdirt11.png|
-|assets/content/image effects/lens dirt/lensdirt12.png|
-|assets/content/image effects/lens dirt/lensdirt13.png|
-|assets/content/image effects/lens dirt/lensdirt14.png|
-|assets/content/image effects/lens dirt/lensdirt15.png|
-|assets/content/image effects/lens dirt/lensdirt16.png|
-|assets/content/image effects/lens dirt/lensdirt2.png|
-|assets/content/image effects/lens dirt/lensdirt3.png|
-|assets/content/image effects/lens dirt/lensdirt4.png|
-|assets/content/image effects/lens dirt/lensdirt5.png|
-|assets/content/image effects/lens dirt/lensdirt6.png|
-|assets/content/image effects/lens dirt/lensdirt7.png|
-|assets/content/image effects/lens dirt/lensdirt8.png|
-|assets/content/image effects/lens dirt/lensdirt9.png|
-|assets/content/materials/highlight.png|
-|assets/content/ui/capsule-background.png|
-|assets/content/ui/death-marker@4x.png|
-|assets/content/ui/developer/developmentskin/devpanelbg.png|
-|assets/content/ui/developer/developmentskin/devtab-active.png|
-|assets/content/ui/developer/developmentskin/devtab-bright.png|
-|assets/content/ui/developer/developmentskin/devtab-normal.png|
-|assets/content/ui/facepunch-darkbg.png|
-|assets/content/ui/gameui/compass/alpha_mask.png|
-|assets/content/ui/gameui/compass/compass_strip.png|
-|assets/content/ui/gameui/compass/compass_strip_hd.png|
-|assets/content/ui/gameui/ui.crosshair.circle.png|
-|assets/content/ui/gradient-circle.png|
-|assets/content/ui/hypnotized.png|
-|assets/content/ui/lock@4x.png|
-|assets/content/ui/menuui/rustlogo-blurred.png|
-|assets/content/ui/menuui/rustlogo-normal-transparent.png|
-|assets/content/ui/menuui/ui.logo.big.halloween.png|
-|assets/content/ui/menuui/ui.logo.big.png|
-|assets/content/ui/menuui/ui.menu.logo.png|
-|assets/content/ui/menuui/ui.menu.rateus.background.png|
-|assets/content/ui/overlay_binocular.png|
-|assets/content/ui/overlay_bleeding.png|
-|assets/content/ui/overlay_freezing.png|
-|assets/content/ui/overlay_goggle.png|
-|assets/content/ui/overlay_helmet_slit.png|
-|assets/content/ui/overlay_poisoned.png|
-|assets/content/ui/overlay_scope_1.png|
-|assets/content/ui/overlay_scope_2.png|
-|assets/content/ui/tiledpatterns/circles.png|
-|assets/content/ui/tiledpatterns/stripe_reallythick.png|
-|assets/content/ui/tiledpatterns/stripe_slight.png|
-|assets/content/ui/tiledpatterns/stripe_slight_thick.png|
-|assets/content/ui/tiledpatterns/stripe_thick.png|
-|assets/content/ui/tiledpatterns/stripe_thin.png|
-|assets/content/ui/tiledpatterns/swirl_pattern.png|
-|assets/content/ui/ui.background.rounded.png|
-|assets/content/ui/ui.background.rounded.top.png|
-|assets/content/ui/ui.icon.rust.png|
-|assets/content/ui/waypoint.inner.png|
-|assets/content/ui/waypoint.outline.png|
-|assets/content/ui/waypoint.outline.team.png|
-|assets/content/ui/waypoint.outline.teamtop.png|
 |assets/icons/add.png|
 |assets/icons/ammunition.png|
 |assets/icons/arrow_right.png|
@@ -166,6 +103,8 @@
 |assets/icons/fork_and_spoon.png|
 |assets/icons/freezing.png|
 |assets/icons/friends_servers.png|
+|assets/icons/fun.png|
+|assets/icons/fun_alt.png|
 |assets/icons/gear.png|
 |assets/icons/grenade.png|
 |assets/icons/greyout.png|
@@ -266,59 +205,6 @@
 |assets/icons/wet.png|
 |assets/icons/workshop.png|
 |assets/icons/xp.png|
-|assets/prefabs/building core/floor.frame/floor.frame.png|
-|assets/prefabs/building core/floor.triangle/floor.triangle.png|
-|assets/prefabs/building core/floor/floor.png|
-|assets/prefabs/building core/foundation.steps/foundation.steps.png|
-|assets/prefabs/building core/foundation.triangle/foundation.triangle.png|
-|assets/prefabs/building core/foundation/foundation.png|
-|assets/prefabs/building core/roof/roof.png|
-|assets/prefabs/building core/stairs.l/stairs_l.png|
-|assets/prefabs/building core/stairs.u/stairs_u.png|
-|assets/prefabs/building core/wall.doorway/wall.doorway.png|
-|assets/prefabs/building core/wall.frame/wall.frame.png|
-|assets/prefabs/building core/wall.half/wall.half.png|
-|assets/prefabs/building core/wall.low/wall.third.png|
-|assets/prefabs/building core/wall.window/wall.window.png|
-|assets/prefabs/building core/wall/wall.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform0.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform0_grey.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform1.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform1_grey.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform2.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bossform2_grey.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet1.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet2.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet3.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet4.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet5.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet6.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet7.png|
-|assets/prefabs/misc/chippy arcade/chippyart/bullet8.png|
-|assets/prefabs/misc/chippy arcade/chippyart/chippy.png|
-|assets/prefabs/misc/chippy arcade/chippyart/chippy_grey.png|
-|assets/prefabs/misc/chippy arcade/chippyart/chippylogo.png|
-|assets/prefabs/misc/chippy arcade/chippyart/cloud1.png|
-|assets/prefabs/misc/chippy arcade/chippyart/cloud2.png|
-|assets/prefabs/misc/chippy arcade/chippyart/cloud3.png|
-|assets/prefabs/misc/chippy arcade/chippyart/cloud4.png|
-|assets/prefabs/misc/chippy arcade/chippyart/cloud5.png|
-|assets/prefabs/misc/chippy arcade/chippyart/grid.png|
-|assets/prefabs/misc/chippy arcade/chippyart/shield.png|
-|assets/prefabs/misc/chippy arcade/chippyart/shield_pickup.png|
-|assets/prefabs/misc/chippy arcade/chippyart/star1.png|
-|assets/prefabs/misc/chippy arcade/chippyart/star2.png|
-|assets/standard assets/effects/imageeffects/textures/color correction ramp.png|
-|assets/standard assets/effects/imageeffects/textures/contrastenhanced3d16.png|
-|assets/standard assets/effects/imageeffects/textures/grayscale ramp.png|
-|assets/standard assets/effects/imageeffects/textures/motionblurjitter.png|
-|assets/standard assets/effects/imageeffects/textures/neutral3d16.png|
-|assets/standard assets/effects/imageeffects/textures/noise.png|
-|assets/standard assets/effects/imageeffects/textures/noiseandgrain.png|
-|assets/standard assets/effects/imageeffects/textures/noiseeffectgrain.png|
-|assets/standard assets/effects/imageeffects/textures/noiseeffectscratch.png|
-|assets/standard assets/effects/imageeffects/textures/randomvectors.png|
-|assets/standard assets/effects/imageeffects/textures/vignettemask.png|
 |assets/scenes/prefabs/airfield/airfield_1/alphatexture.png|
 |assets/scenes/prefabs/airfield/airfield_1/blendtexture.png|
 |assets/scenes/prefabs/airfield/airfield_1/heighttexture.png|
