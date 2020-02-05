@@ -445,6 +445,19 @@
 |assets/prefabs/deployable/chair/chair.item.prefab|
 |assets/prefabs/deployable/dropbox/dropbox.item.prefab|
 |assets/prefabs/deployable/fireplace/fireplace.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.blue.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.champagne.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.green.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.orange.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.red.item.prefab|
+|assets/prefabs/deployable/fireworks/boomer.violet.item.prefab|
+|assets/prefabs/deployable/fireworks/romancandle.blue.item.prefab|
+|assets/prefabs/deployable/fireworks/romancandle.green.item.prefab|
+|assets/prefabs/deployable/fireworks/romancandle.red.item.prefab|
+|assets/prefabs/deployable/fireworks/romancandle.violet.item.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework.item.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework.red.item.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework.violet.item.prefab|
 |assets/prefabs/deployable/floor spikes/spikes.floor.item.prefab|
 |assets/prefabs/deployable/fridge/fridge.item.prefab|
 |assets/prefabs/deployable/furnace.large/furnace.large.item.prefab|
@@ -485,6 +498,7 @@
 |assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.item.prefab|
 |assets/prefabs/deployable/playerioents/generators/generator.small.item.prefab|
 |assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.item.prefab|
+|assets/prefabs/deployable/playerioents/igniter/igniter.item.prefab|
 |assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.item.prefab|
 |assets/prefabs/deployable/playerioents/lights/simpelight.item.prefab|
 |assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.item.prefab|
@@ -595,6 +609,9 @@
 |assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.item.prefab|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.item.prefab|
 |assets/prefabs/misc/chinesenewyear/dragonmask/hat.dragonmask.item.prefab|
+|assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.item.prefab|
+|assets/prefabs/misc/chinesenewyear/ratmask/hat.ratmask.item.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.item.prefab|
 |assets/prefabs/misc/chippy arcade/chippyarcademachine.item.prefab|
 |assets/prefabs/misc/doorcloser/doorcloser.item.prefab|
 |assets/prefabs/misc/easter/bunny ears/hat.bunnyears.item.prefab|
@@ -634,6 +651,7 @@
 |assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.item.prefab|
 |assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.item.prefab|
 |assets/prefabs/misc/xmas/pookie/pookie.item.prefab|
+|assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.item.prefab|
 |assets/prefabs/misc/xmas/presents/coal.item.prefab|
 |assets/prefabs/misc/xmas/presents/present.large.item.prefab|
 |assets/prefabs/misc/xmas/presents/present.medium.item.prefab|
@@ -644,8 +662,11 @@
 |assets/prefabs/misc/xmas/stockings/stocking.large.item.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking.small.item.prefab|
 |assets/prefabs/misc/xmas/wearable/hat.reindeerantlersheadband/hat.reindeerantlersheadband.item.prefab|
+|assets/prefabs/misc/xmas/wearable/santabeard/santabeard.item.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat.item.prefab|
 |assets/prefabs/misc/xmas/windowgarland/windowgarland.item.prefab|
+|assets/prefabs/misc/xmas/wrappingpaper/wrappedgift.item.prefab|
+|assets/prefabs/misc/xmas/wrappingpaper/wrappingpaper.item.prefab|
 |assets/prefabs/misc/xmas/wreath/christmas_door_wreath.item.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.baubels.item.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/items/treedecor.candycanes.item.prefab|
@@ -1847,6 +1868,20 @@
 |assets/content/building/parts/static/wall.wood.prefab|
 |assets/content/effects/candle.prefab|
 |assets/content/effects/electrical/fx-fusebox-sparks.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer blue v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer golden xl v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer green v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer orange v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer red v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer violet v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks roman candle.prefab|
+|assets/content/effects/fireworks/pfx fireworks volcano red.prefab|
+|assets/content/effects/fireworks/pfx fireworks volcano violet.prefab|
+|assets/content/effects/fireworks/pfx fireworks volcano.prefab|
+|assets/content/effects/fireworks/pfx roman candle projectile blue.prefab|
+|assets/content/effects/fireworks/pfx roman candle projectile green.prefab|
+|assets/content/effects/fireworks/pfx roman candle projectile red.prefab|
+|assets/content/effects/fireworks/pfx roman candle projectile violet.prefab|
 |assets/content/effects/materials/fog/fog_wall.prefab|
 |assets/content/effects/materials/fog/height_fog.prefab|
 |assets/content/effects/mountainfume/mountainfog.prefab|
@@ -4232,6 +4267,25 @@
 |assets/prefabs/deployable/dropbox/effects/submit_items.prefab|
 |assets/prefabs/deployable/dropbox/v2/dropboxv2.prefab|
 |assets/prefabs/deployable/fireplace/fireplace.deployed.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellblue.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellchampagne.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellgreen.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellorange.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellred.prefab|
+|assets/prefabs/deployable/fireworks/fireworkshellviolet.prefab|
+|assets/prefabs/deployable/fireworks/mortarblue.prefab|
+|assets/prefabs/deployable/fireworks/mortarchampagne.prefab|
+|assets/prefabs/deployable/fireworks/mortargreen.prefab|
+|assets/prefabs/deployable/fireworks/mortarorange.prefab|
+|assets/prefabs/deployable/fireworks/mortarred.prefab|
+|assets/prefabs/deployable/fireworks/mortarviolet.prefab|
+|assets/prefabs/deployable/fireworks/romancandle-blue.prefab|
+|assets/prefabs/deployable/fireworks/romancandle-green.prefab|
+|assets/prefabs/deployable/fireworks/romancandle-violet.prefab|
+|assets/prefabs/deployable/fireworks/romancandle.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework-red.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework-violet.prefab|
+|assets/prefabs/deployable/fireworks/volcanofirework.prefab|
 |assets/prefabs/deployable/floor spikes/effects/floor-spikes-deploy.prefab|
 |assets/prefabs/deployable/floor spikes/spikes.floor.prefab|
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
@@ -4311,6 +4365,7 @@
 |assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.deployed.prefab|
 |assets/prefabs/deployable/playerioents/generators/generator.small.prefab|
 |assets/prefabs/deployable/playerioents/generators/solar_panels_roof/solarpanel.large.deployed.prefab|
+|assets/prefabs/deployable/playerioents/igniter/igniter.deployed.prefab|
 |assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.deployed.prefab|
 |assets/prefabs/deployable/playerioents/lights/simplelight.prefab|
 |assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab|
@@ -4604,6 +4659,17 @@
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/effects/door_knock_fx.prefab|
 |assets/prefabs/misc/chinesenewyear/dragonmask/hat.dragonmask.prefab|
 |assets/prefabs/misc/chinesenewyear/dragonmask/hat.dragonmask.world.prefab|
+|assets/prefabs/misc/chinesenewyear/fountainfirework/fountainfirework.prefab|
+|assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.deployed.prefab|
+|assets/prefabs/misc/chinesenewyear/ratmask/hat.ratmask.prefab|
+|assets/prefabs/misc/chinesenewyear/ratmask/hat.ratmask.world.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/effects/throw.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecracker_crack.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.deployed.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.entity.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/firecrackers.viewmodel.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/throwablefirecrackers.viewmodel.prefab|
+|assets/prefabs/misc/chinesenewyear/throwablefirecrackers/w_throwablefirecrackers_ragdoll_only.prefab|
 |assets/prefabs/misc/chippy arcade/arcadeentity.prefab|
 |assets/prefabs/misc/chippy arcade/arcademachine.prefab|
 |assets/prefabs/misc/chippy arcade/chippyarcademachine.prefab|
@@ -4800,17 +4866,23 @@
 |assets/prefabs/misc/xmas/christmas_props/assets/prefabs/sock_2.prefab|
 |assets/prefabs/misc/xmas/doorgarland/doorgarland.deployed.prefab|
 |assets/prefabs/misc/xmas/event_xmas.prefab|
+|assets/prefabs/misc/xmas/firework mortar/mortar.prefab|
 |assets/prefabs/misc/xmas/food/candycane.worldmodel.prefab|
 |assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.deployed.prefab|
 |assets/prefabs/misc/xmas/giftbox/giftbox_loot.prefab|
 |assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.deployed.prefab|
 |assets/prefabs/misc/xmas/pookie/pookie.worldmodel.prefab|
 |assets/prefabs/misc/xmas/pookie/pookie_deployed.prefab|
+|assets/prefabs/misc/xmas/poweredlights/poweredlightsdeployer.prefab|
+|assets/prefabs/misc/xmas/poweredlights/testbulb.prefab|
+|assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab|
+|assets/prefabs/misc/xmas/poweredlights/xmas_controlbox.prefab|
 |assets/prefabs/misc/xmas/presents/effects/unwrap.prefab|
 |assets/prefabs/misc/xmas/presents/effects/wrap.prefab|
 |assets/prefabs/misc/xmas/presents/present.large.worldmodel.prefab|
 |assets/prefabs/misc/xmas/presents/present.medium.worldmodel.prefab|
 |assets/prefabs/misc/xmas/presents/present.small.worldmodel.prefab|
+|assets/prefabs/misc/xmas/roman candle/romancandle.prefab|
 |assets/prefabs/misc/xmas/sleigh/presentdrop.prefab|
 |assets/prefabs/misc/xmas/sleigh/santa_prop.prefab|
 |assets/prefabs/misc/xmas/sleigh/santasleigh.prefab|
@@ -4831,10 +4903,14 @@
 |assets/prefabs/misc/xmas/stockings/stocking_large_deployed.prefab|
 |assets/prefabs/misc/xmas/stockings/stocking_small_deployed.prefab|
 |assets/prefabs/misc/xmas/wearable/hat.reindeerantlersheadband/hat.reindeer_antlers_headband.prefab|
+|assets/prefabs/misc/xmas/wearable/santabeard/santabeard.wearable.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat.wearable.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat.worldmodel.prefab|
 |assets/prefabs/misc/xmas/wearable/santahat/santahat_worldmodel.prefab|
 |assets/prefabs/misc/xmas/windowgarland/windowgarland.deployed.prefab|
+|assets/prefabs/misc/xmas/wrappingpaper/playerwrappedgift.worldmodel.prefab|
+|assets/prefabs/misc/xmas/wrappingpaper/poorly_wrapped_gift.prefab|
+|assets/prefabs/misc/xmas/wrappingpaper/v_poorly_wrapped_gift.prefab|
 |assets/prefabs/misc/xmas/wreath/christmas_door_wreath_deployed.prefab|
 |assets/prefabs/misc/xmas/wreath/festive_door_wreath.prefab|
 |assets/prefabs/misc/xmas/xmasdecorations/candycanes.worldmodel.prefab|

@@ -171,6 +171,19 @@
 |1534542921|chair|Chair|Items|Common|
 |-1519126340|dropbox|Drop Box|Items|Uncommon|
 |-1535621066|fireplace.stone|Stone Fireplace|Items|Common|
+|1744298439|firework.boomer.blue|Blue Boomer|Fun|None|
+|1324203999|firework.boomer.champagne|Champagne Boomer|Fun|None|
+|-656349006|firework.boomer.green|Green Boomer|Fun|None|
+|-7270019|firework.boomer.orange|Orange Boomer|Fun|None|
+|-1553999294|firework.boomer.red|Red Boomer|Fun|None|
+|-280223496|firework.boomer.violet|Violet Boomer|Fun|None|
+|-515830359|firework.romancandle.blue|Blue Roman Candle|Fun|None|
+|-1306288356|firework.romancandle.green|Green Roman Candle|Fun|None|
+|-1486461488|firework.romancandle.red|Red Roman Candle|Fun|None|
+|-99886070|firework.romancandle.violet|Violet Roman Candle|Fun|None|
+|261913429|firework.volcano|White Volcano Firework|Fun|None|
+|-454370658|firework.volcano.red|Red Volcano Firework|Fun|None|
+|-1538109120|firework.volcano.violet|Violet Volcano Firework|Fun|None|
 |-92759291|spikes.floor|Wooden Floor Spikes|Traps|Common|
 |1413014235|fridge|Fridge|Items|Common|
 |-1992717673|furnace.large|Large Furnace|Items|Rare|
@@ -211,6 +224,7 @@
 |1849887541|electric.fuelgenerator.small|Small Generator|Electrical|Uncommon|
 |-295829489|electric.generator.small|Test Generator|Electrical|Uncommon|
 |2090395347|electric.solarpanel.large|Large Solar Panel|Electrical|Uncommon|
+|-44876289|electric.igniter|Igniter|Electrical|Common|
 |-939424778|electric.flasherlight|Flasher Light|Electrical|Common|
 |-282113991|electric.simplelight|Simple Light|Electrical|None|
 |762289806|electric.sirenlight|Siren Light|Electrical|Common|
@@ -321,6 +335,9 @@
 |-1916473915|chineselantern|Chinese Lantern|Items|Common|
 |-854270928|dragondoorknocker|Dragon Door Knocker|Items|None|
 |-22883916|hat.dragonmask|Dragon Mask|Attire|None|
+|-961457160|newyeargong|New Year Gong|Fun|None|
+|271048478|hat.ratmask|Rat Mask|Attire|None|
+|-1961560162|lunar.firecrackers|Firecracker String|Fun|None|
 |359723196|arcade.machine.chippy|Chippy Arcade Game|Items|None|
 |1409529282|door.closer|Door Closer|Construction|None|
 |-1004426654|attire.bunnyears|Bunny Ears|Attire|None|
@@ -360,6 +377,7 @@
 |-695124222|giantcandycanedecor|Giant Candy Decor|Misc|None|
 |282103175|giantlollipops|Giant Lollipop Decor|Misc|None|
 |-1651220691|pookie.bear|Pookie Bear|Items|None|
+|-151387974|xmas.lightstring.advanced|Deluxe Christmas Lights|Electrical|None|
 |204391461|coal|Coal :(|Resources|None|
 |-1622660759|xmas.present.large|Large Present|Misc|None|
 |756517185|xmas.present.medium|Medium Present|Misc|None|
@@ -370,8 +388,11 @@
 |-465682601|stocking.large|SUPER Stocking|Items|None|
 |1668858301|stocking.small|Small Stocking|Items|None|
 |-324675402|attire.reindeer.headband|Reindeer Antlers|Attire|None|
+|2126889441|santabeard|Santa Beard|Attire|None|
 |-575483084|santahat|Santa Hat|Attire|None|
 |-1379835144|xmas.window.garland|Festive Window Garland|Items|None|
+|204970153|wrappedgift|Wrapped Gift|Fun|Common|
+|1094293920|wrappingpaper|Wrapping Paper|Fun|Common|
 |2009734114|xmasdoorwreath|Christmas Door Wreath|Items|None|
 |-1667224349|xmas.decoration.baubels|Decorative Baubels|Misc|None|
 |-209869746|xmas.decoration.candycanes|Decorative Plastic Candy Canes|Misc|None|
@@ -508,7 +529,7 @@
 |-1469578201|longsword|Longsword|Weapon|Uncommon|
 |1326180354|salvaged.sword|Salvaged Sword|Weapon|Common|
 |-1758372725|smg.thompson|Thompson|Weapon|Rare|
-|1803831286|toolgun|Garry's Mod Toolgun|Tool|None|
+|1803831286|toolgun|Garry's Mod Tool Gun|Tool|None|
 |795236088|torch|Torch|Tool|None|
 |1424075905|bucket.water|Water Bucket|Tool|Common|
 |1540934679|spear.wooden|Wooden Spear|Weapon|None|
