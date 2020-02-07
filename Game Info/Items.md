@@ -68,25 +68,6 @@
 |1366282552|burlap.gloves|Leather Gloves|Attire|Common|
 |-699558439|roadsign.gloves|Roadsign Gloves|Attire|Common|
 |-1108136649|tactical.gloves|Tactical Gloves|Attire|Common|
-|274502203|femalearmpithair.style01|f-armpit01|Attire|None|
-|181590376|malearmpithair.style01|m-armpit01|Attire|None|
-|-1065444793|femaleeyebrow.style01|f-eyebrow01|Attire|None|
-|-874975042|maleeyebrow.style01|m-eyebrow01|Attire|None|
-|798638114|facialhair.style01|m-facialhair01|Attire|None|
-|-163828118|male.facialhair.style02|m-facialhair02|Attire|None|
-|-163828117|male.facialhair.style03|m-facialhair03|Attire|None|
-|-163828112|male.facialhair.style04|m-facialhair04|Attire|None|
-|649305914|female_hairstyle_01|f-hairstyle-1|Attire|None|
-|1070894649|male_hairstyle_01|m-hairstyle-1|Attire|None|
-|649305917|female_hairstyle_02|f-hairstyle-2|Attire|None|
-|1070894648|male_hairstyle_02|m-hairstyle-2|Attire|None|
-|649305916|female_hairstyle_03|f-hairstyle-3|Attire|None|
-|1070894647|male_hairstyle_03|m-hairstyle-3|Attire|None|
-|1070894646|male_hairstyle_04|m-hairstyle-4|Attire|None|
-|649305918|female_hairstyle_05|f-hairstyle-5|Attire|None|
-|1070894645|male_hairstyle_05|m-hairstyle-5|Attire|None|
-|16333305|femalepubichair.style01|f-pubic01|Attire|None|
-|-1190096326|malepubichair.style01|m-pubic01|Attire|None|
 |277730763|halloween.mummysuit|Mummy Suit|Attire|Rare|
 |273951840|scarecrow.suit|Scarecrow Suit|Attire|Rare|
 |809942731|scarecrowhead|Scarecrow Wrap|Attire|None|
@@ -327,7 +308,7 @@
 |-1379036069|fun.tambourine|Canbourine|Fun|Common|
 |273172220|fun.trumpet|Plumber's Trumpet|Fun|Common|
 |1784406797|fun.tuba|Sousaphone|Fun|Common|
-|-211235948|xylophone|Xlyobone|Fun|Common|
+|-211235948|xylophone|Xylobone|Fun|Common|
 |-1112793865|door.key|Door Key|Misc|None|
 |-850982208|lock.key|Key Lock|Construction|None|
 |1159991980|lock.code|Code Lock|Construction|None|
@@ -533,8 +514,8 @@
 |795236088|torch|Torch|Tool|None|
 |1424075905|bucket.water|Water Bucket|Tool|Common|
 |1540934679|spear.wooden|Wooden Spear|Weapon|None|
-|60528587|horse.armor.roadsign|Roadsign Horse Armor|Attire|None|
+|60528587|horse.armor.roadsign|Roadsign Horse Armor|Attire|Rare|
 |1659447559|horse.armor.wood|Wooden Horse Armor|Attire|None|
 |1400460850|horse.saddlebag|Saddle bag|Attire|None|
-|1989785143|horse.shoes.advanced|High Quality Horse Shoes|Attire|None|
+|1989785143|horse.shoes.advanced|High Quality Horse Shoes|Attire|Uncommon|
 |-1211268013|horse.shoes.basic|Basic Horse Shoes|Attire|None|

@@ -237,7 +237,6 @@
 |-22883916|hat.dragonmask|None|0|False|0|cloth:10;skull.wolf:1;|
 |-961457160|newyeargong|None|0|False|0|wood:400;metal.fragments:100;cloth:20;|
 |271048478|hat.ratmask|None|0|False|0|cloth:10;skull.wolf:1;|
-|-1961560162|lunar.firecrackers|None|0|True|0|gunpowder:10;metal.fragments:10;|
 |359723196|arcade.machine.chippy|None|0|False|1|metal.refined:10;gears:2;|
 |-979302481|easterdoorwreath|None|0|False|0|cloth:20;|
 |-173268129|rustige_egg_a|None|0|False|0|metal.refined:2;|
@@ -262,7 +261,7 @@
 |2126889441|santabeard|None|0|False|0|cloth:10;|
 |-1379835144|xmas.window.garland|None|0|False|0|cloth:25;|
 |2009734114|xmasdoorwreath|None|0|False|0|cloth:20;|
-|-2139580305|autoturret|VeryRare|0|False|2|targeting.computer:1;cctv.camera:1;metal.refined:40;|
+|-2139580305|autoturret|VeryRare|0|False|2|targeting.computer:1;cctv.camera:1;metal.refined:10;|
 |528668503|flameturret|VeryRare|0|False|1|metal.refined:10;metalpipe:2;propanetank:5;gears:3;|
 |-384243979|ammo.rocket.sam|Uncommon|0|False|2|metalpipe:1;gunpowder:30;|
 |-592016202|explosives|Uncommon|0|False|3|gunpowder:50;lowgradefuel:3;sulfur:10;metal.fragments:10;|
@@ -333,8 +332,8 @@
 |795236088|torch|Uncommon|0|True|0|wood:30;cloth:1;lowgradefuel:1;|
 |1424075905|bucket.water|Common|0|False|0|metal.fragments:20;|
 |1540934679|spear.wooden|Common|0|True|0|wood:300;|
-|60528587|horse.armor.roadsign|Rare|0|False|2|roadsigns:5;sewingkit:3;|
-|1659447559|horse.armor.wood|None|0|True|1|rope:2;wood:600;|
+|60528587|horse.armor.roadsign|Rare|0|False|1|roadsigns:4;sewingkit:2;|
+|1659447559|horse.armor.wood|None|0|True|1|rope:2;wood:300;|
 |1400460850|horse.saddlebag|None|0|True|1|leather:20;|
 |1989785143|horse.shoes.advanced|Uncommon|0|False|1|metal.refined:15;|
 |-1211268013|horse.shoes.basic|None|0|True|1|metal.fragments:50;|
