@@ -114,6 +114,7 @@
 |assets/icons/home.png|
 |assets/icons/horse_ride.png|
 |assets/icons/hot.png|
+|assets/icons/icon_pixel_camera.png|
 |assets/icons/ignite.png|
 |assets/icons/info.png|
 |assets/icons/instagram-logo.png|

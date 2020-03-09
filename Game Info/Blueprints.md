@@ -118,6 +118,7 @@
 |1946219319|campfire|None|0|True|0|wood:100;|
 |1142993169|ceilinglight|Uncommon|0|False|1|metal.fragments:50;|
 |1534542921|chair|Uncommon|0|False|1|wood:50;metal.fragments:75;|
+|-1588628467|computerstation|Uncommon|0|False|2|metal.refined:20;targeting.computer:1;electric.rf.broadcaster:1;electric.rf.receiver:1;|
 |-1519126340|dropbox|Uncommon|0|False|1|metal.fragments:200;|
 |-1535621066|fireplace.stone|Common|0|False|0|stones:500;wood:200;|
 |1744298439|firework.boomer.blue|None|0|False|0|metal.fragments:25;gunpowder:30;lowgradefuel:15;|

@@ -150,6 +150,7 @@
 |1946219319|campfire|Camp Fire|Items|None|
 |1142993169|ceilinglight|Ceiling Light|Electrical|Common|
 |1534542921|chair|Chair|Items|Common|
+|-1588628467|computerstation|Computer Station|Electrical|Uncommon|
 |-1519126340|dropbox|Drop Box|Items|Uncommon|
 |-1535621066|fireplace.stone|Stone Fireplace|Items|Common|
 |1744298439|firework.boomer.blue|Blue Boomer|Fun|None|
@@ -237,7 +238,7 @@
 |826309791|sign.post.town.roof|Two Sided Town Sign Post|Items|Rare|
 |-143132326|sign.wooden.huge|Huge Wooden Sign|Items|Uncommon|
 |1153652756|sign.wooden.large|Large Wooden Sign|Items|Uncommon|
-|-1819233322|sign.wooden.medium|Wooden Sign|Items|Common|
+|-1819233322|sign.wooden.medium|Medium Wooden Sign|Items|Common|
 |-1138208076|sign.wooden.small|Small Wooden Sign|Items|Common|
 |352499047|guntrap|Shotgun Trap|Traps|Rare|
 |-1754948969|sleepingbag|Sleeping Bag|Items|Uncommon|

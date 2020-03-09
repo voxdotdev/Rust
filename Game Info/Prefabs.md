@@ -126,6 +126,8 @@
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.branchconfig.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.counterconfig.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.frequencyconfig.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.dialog.identiferconfig.prefab|
+|assets/bundled/prefabs/ui/dialogs/ui.dialog.rccomputer.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.reportbug.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.reportplayer.prefab|
 |assets/bundled/prefabs/ui/dialogs/ui.dialog.sign.update.prefab|
@@ -155,6 +157,7 @@
 |assets/content/ui/button.dull.prefab|
 |assets/content/ui/button.green.prefab|
 |assets/content/ui/button.sidebar.prefab|
+|assets/content/ui/engineui/engineui.demoplayback.prefab|
 |assets/content/ui/engineui/engineui.loadingscreen.prefab|
 |assets/content/ui/engineui/engineui.netgraph.prefab|
 |assets/content/ui/engineui/netgraph/netgraphrow.prefab|
@@ -163,6 +166,10 @@
 |assets/content/ui/filedialog/filesscrollrectelement.prefab|
 |assets/content/ui/filedialog/uifileselector.prefab|
 |assets/content/ui/gameui/achievements/achievmentitem.prefab|
+|assets/content/ui/gameui/cameraframing/aspectratio.prefab|
+|assets/content/ui/gameui/cameraframing/crosshair.prefab|
+|assets/content/ui/gameui/cameraframing/goldenratio.prefab|
+|assets/content/ui/gameui/cameraframing/ruleofthirds.prefab|
 |assets/content/ui/gameui/craftingqueue.icon.prefab|
 |assets/content/ui/gameui/gameui.crafting.prefab|
 |assets/content/ui/gameui/gameui.deathscreen.infographic.divider.prefab|
@@ -218,6 +225,7 @@
 |assets/content/ui/gameui/ui.infopanel.consumable.prefab|
 |assets/content/ui/gameui/ui.infopanel.explosive.prefab|
 |assets/content/ui/gameui/ui.infopanel.gunmodification.prefab|
+|assets/content/ui/gameui/ui.infopanel.ioentityinfo.prefab|
 |assets/content/ui/gameui/ui.infopanel.meleeweapon.prefab|
 |assets/content/ui/gameui/ui.infopanel.projectileweapon.prefab|
 |assets/content/ui/gameui/ui.infopanel.seed.prefab|
@@ -239,6 +247,9 @@
 |assets/content/ui/gameui/workshopitemrow.prefab|
 |assets/content/ui/menuui/menuui.companion.prefab|
 |assets/content/ui/menuui/menuui.connection.prefab|
+|assets/content/ui/menuui/menuui.demos.deleteconfirmation.prefab|
+|assets/content/ui/menuui/menuui.demos.item.prefab|
+|assets/content/ui/menuui/menuui.demos.prefab|
 |assets/content/ui/menuui/menuui.hero.prefab|
 |assets/content/ui/menuui/menuui.inventory.craftingmodal.prefab|
 |assets/content/ui/menuui/menuui.inventory.prefab|
@@ -428,6 +439,7 @@
 |assets/prefabs/deployable/campfire/campfire.item.prefab|
 |assets/prefabs/deployable/ceiling light/ceilinglight.item.prefab|
 |assets/prefabs/deployable/chair/chair.item.prefab|
+|assets/prefabs/deployable/computerstation/computerstation.item.prefab|
 |assets/prefabs/deployable/dropbox/dropbox.item.prefab|
 |assets/prefabs/deployable/fireplace/fireplace.item.prefab|
 |assets/prefabs/deployable/fireworks/boomer.blue.item.prefab|
@@ -1698,6 +1710,11 @@
 |assets/bundled/prefabs/hapis/puzzle/hapis_puzzle_blue_1.prefab|
 |assets/bundled/prefabs/hapis/puzzle/hapis_puzzle_green_1.prefab|
 |assets/bundled/prefabs/hapis/puzzle/hapis_puzzle_green_2.prefab|
+|assets/bundled/prefabs/modding/glass_type_1.prefab|
+|assets/bundled/prefabs/modding/glass_type_houses_nontransparent.prefab|
+|assets/bundled/prefabs/modding/glass_type_industrial.prefab|
+|assets/bundled/prefabs/modding/glass_type_industrial_nontransparent.prefab|
+|assets/bundled/prefabs/modding/glass_type_reinforced.prefab|
 |assets/bundled/prefabs/modding/invisible_collider.prefab|
 |assets/bundled/prefabs/modding/ladder_trigger.prefab|
 |assets/bundled/prefabs/modding/prevent_building_cube.prefab|
@@ -4053,16 +4070,11 @@
 |assets/prefabs/clothes/hair/armpithair/male_armpit_hair_01.prefab|
 |assets/prefabs/clothes/hair/eyebrowhair/female_eyebrows_01.prefab|
 |assets/prefabs/clothes/hair/eyebrowhair/male_eyebrows_01.prefab|
-|assets/prefabs/clothes/hair/facialhair_style01/facialhair.style01.prefab|
 |assets/prefabs/clothes/hair/facialhair_style01/male_facial_hairstyle_1.prefab|
 |assets/prefabs/clothes/hair/facialhair_style02/male_facial_hairstyle_02.prefab|
 |assets/prefabs/clothes/hair/facialhair_style04/male_facial_hairstyle_04.prefab|
-|assets/prefabs/clothes/hair/hair_armpit.prefab|
-|assets/prefabs/clothes/hair/hair_pubic.prefab|
 |assets/prefabs/clothes/hair/hair_style01/female_hairstyle_01.prefab|
-|assets/prefabs/clothes/hair/hair_style01/hair.style01.prefab|
 |assets/prefabs/clothes/hair/hair_style01/male_hairstyle_01.prefab|
-|assets/prefabs/clothes/hair/hair_style02/female.hair.style02.prefab|
 |assets/prefabs/clothes/hair/hair_style02/female_hairstyle_02.prefab|
 |assets/prefabs/clothes/hair/hair_style02/male_hairstyle_02.prefab|
 |assets/prefabs/clothes/hair/hair_style04/male_hairstyle_04.prefab|
@@ -4269,6 +4281,8 @@
 |assets/prefabs/deployable/buildingsupplies loot/buildingsuppliesloot.prefab|
 |assets/prefabs/deployable/campfire/campfire.prefab|
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
+|assets/prefabs/deployable/cctvcamera/cctv.static.prefab|
+|assets/prefabs/deployable/cctvcamera/cctv_deployed.prefab|
 |assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
 |assets/prefabs/deployable/ceiling light/ceilinglight.worldmodel.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
@@ -4280,6 +4294,8 @@
 |assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/hackingdevice.prefab|
+|assets/prefabs/deployable/computerstation/computerstation.deployed.prefab|
+|assets/prefabs/deployable/computerstation/rcbookmarkentry.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_a.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_a_large.prefab|
 |assets/prefabs/deployable/door barricades/door_barricade_a_spawner.prefab|
@@ -4516,6 +4532,7 @@
 |assets/prefabs/deployable/water well/water_well_deployable.prefab|
 |assets/prefabs/deployable/water well/waterwellstatic.prefab|
 |assets/prefabs/deployable/water wheel/waterwheel.prefab|
+|assets/prefabs/deployable/water wheel/waterwheelgenerator.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
 |assets/prefabs/deployable/waterpurifier/water_desalinator.gibs.prefab|
 |assets/prefabs/deployable/waterpurifier/water_desalinator.prefab|
