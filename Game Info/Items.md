@@ -150,6 +150,7 @@
 |1946219319|campfire|Camp Fire|Items|None|
 |1142993169|ceilinglight|Ceiling Light|Electrical|Common|
 |1534542921|chair|Chair|Items|Common|
+|-1488398114|composter|Composter|Items|None|
 |-1588628467|computerstation|Computer Station|Electrical|Uncommon|
 |-1519126340|dropbox|Drop Box|Items|Uncommon|
 |-1535621066|fireplace.stone|Stone Fireplace|Items|Common|
@@ -193,6 +194,8 @@
 |-798293154|electric.laserdetector|Laser Detector|Electrical|Uncommon|
 |-2049214035|electric.pressurepad|Pressure Pad|Electrical|Common|
 |-502177121|electric.doorcontroller|Door Controller|Electrical|Uncommon|
+|-1166712463|fluid.splitter|Fluid Splitter|Electrical|Common|
+|443432036|fluid.switch|Fluid Switch & Pump|Electrical|Common|
 |1171735914|electric.andswitch|AND Switch|Electrical|Common|
 |-690968985|electric.blocker|Blocker|Electrical|Common|
 |-1448252298|electrical.branch|Electrical Branch|Electrical|Common|
@@ -212,6 +215,7 @@
 |762289806|electric.sirenlight|Siren Light|Electrical|Common|
 |1951603367|electric.switch|Switch|Electrical|Common|
 |-563624462|electric.splitter|Splitter|Electrical|Common|
+|-781014061|electric.sprinkler|Sprinkler|Electrical|Common|
 |1371909803|electric.teslacoil|Tesla Coil|Electrical|Common|
 |665332906|electric.timer|Timer|Electrical|Common|
 |1835946060|electric.cabletunnel|Cable Tunnel|Electrical|None|
@@ -394,6 +398,9 @@
 |998894949|seed.corn|Corn Seed|Food|None|
 |-886280491|clone.hemp|Hemp Clone|Food|None|
 |-237809779|seed.hemp|Hemp Seed|Food|None|
+|-2086926071|potato|Potato|Food|Uncommon|
+|1512054436|clone.potato|Potato Clone|Food|None|
+|-2084071424|seed.potato|Potato Seed|Food|None|
 |-567909622|pumpkin|Pumpkin|Food|Uncommon|
 |1898094925|clone.pumpkin|Pumpkin Plant Clone|Food|None|
 |-1511285251|seed.pumpkin|Pumpkin Seed|Food|None|
@@ -409,7 +416,9 @@
 |1655979682|can.beans.empty|Empty Can Of Beans|Resources|None|
 |-1557377697|can.tuna.empty|Empty Tuna Can|Resources|None|
 |-592016202|explosives|Explosives|Resources|VeryRare|
+|-930193596|fertilizer|Fertilizer|Resources|None|
 |-265876753|gunpowder|Gun Powder|Resources|VeryRare|
+|-1579932985|horsedung|Horse Dung|Resources|VeryRare|
 |-1982036270|hq.metal.ore|High Quality Metal Ore|Resources|None|
 |317398316|metal.refined|High Quality Metal|Resources|Rare|
 |1381010055|leather|Leather|Resources|Uncommon|
@@ -417,6 +426,7 @@
 |69511070|metal.fragments|Metal Fragments|Resources|Uncommon|
 |-4031221|metal.ore|Metal Ore|Resources|None|
 |-1779183908|paper|Paper|Resources|None|
+|-804769727|plantfiber|Plant Fiber|Resources|None|
 |-544317637|researchpaper|Research Paper|Resources|None|
 |-277057363|water.salt|Salt Water|Resources|None|
 |-932201673|scrap|Scrap|Resources|Uncommon|
@@ -436,6 +446,7 @@
 |304481038|flare|Flare|Tool|Common|
 |-196667575|flashlight.held|Flashlight|Tool|Common|
 |999690781|geiger.counter|Geiger Counter|Tool|None|
+|363163265|hosetool|Hose Tool|Electrical|Common|
 |1488979457|jackhammer|Jackhammer|Tool|Rare|
 |-484206264|keycard_blue|Blue Keycard|Misc|Common|
 |37122747|keycard_green|Green Keycard|Misc|Common|

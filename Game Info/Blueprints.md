@@ -118,6 +118,7 @@
 |1946219319|campfire|None|0|True|0|wood:100;|
 |1142993169|ceilinglight|Uncommon|0|False|1|metal.fragments:50;|
 |1534542921|chair|Uncommon|0|False|1|wood:50;metal.fragments:75;|
+|-1488398114|composter|None|0|True|0|tarp:2;wood:200;|
 |-1588628467|computerstation|Uncommon|0|False|2|metal.refined:20;targeting.computer:1;electric.rf.broadcaster:1;electric.rf.receiver:1;|
 |-1519126340|dropbox|Uncommon|0|False|1|metal.fragments:200;|
 |-1535621066|fireplace.stone|Common|0|False|0|stones:500;wood:200;|
@@ -149,7 +150,7 @@
 |-586784898|mailbox|Uncommon|0|False|0|wood:100;metal.fragments:25;|
 |-1293296287|small.oil.refinery|Uncommon|0|False|2|wood:200;metal.fragments:500;lowgradefuel:250;|
 |1581210395|planter.large|Common|0|False|0|wood:200;tarp:2;|
-|1903654061|planter.small|Common|0|False|0|wood:100;tarp:1;|
+|1903654061|planter.small|Common|0|True|0|wood:100;tarp:1;|
 |2100007442|electric.audioalarm|None|0|False|1|metal.refined:5;|
 |553270375|electric.battery.rechargable.large|None|0|False|2|metal.refined:50;|
 |2023888403|electric.battery.rechargable.medium|None|0|False|2|metal.refined:25;|
@@ -159,6 +160,8 @@
 |-798293154|electric.laserdetector|None|0|False|1|metal.refined:15;|
 |-2049214035|electric.pressurepad|None|0|False|1|wood:150;metalspring:1;gears:1;|
 |-502177121|electric.doorcontroller|None|0|False|1|metal.refined:5;|
+|-1166712463|fluid.splitter|None|0|False|1|metal.refined:5;|
+|443432036|fluid.switch|None|0|False|1|metal.refined:5;|
 |1171735914|electric.andswitch|None|0|False|2|metal.refined:5;|
 |-690968985|electric.blocker|None|0|False|1|metal.refined:5;gears:1;|
 |-1448252298|electrical.branch|None|0|False|1|metal.refined:3;|
@@ -176,13 +179,14 @@
 |762289806|electric.sirenlight|Common|0|False|1|metal.refined:5;|
 |1951603367|electric.switch|None|0|False|1|metal.refined:5;|
 |-563624462|electric.splitter|None|0|False|1|metal.refined:10;|
+|-781014061|electric.sprinkler|Common|0|False|1|metal.refined:5;|
 |1371909803|electric.teslacoil|Common|0|False|1|metal.refined:10;techparts:1;|
 |665332906|electric.timer|None|0|False|1|metal.refined:5;gears:1;|
 |-1736356576|target.reactive|Uncommon|0|False|1|wood:100;metal.fragments:150;gears:1;|
 |803222026|box.repair.bench|Common|0|True|1|metal.fragments:125;|
 |-1861522751|research.table|Rare|0|True|1|metal.fragments:200;scrap:75;|
 |-1104881824|rug.bear|Uncommon|0|False|0|leather:100;|
-|-1985799200|rug|Uncommon|0|False|0|cloth:100;|
+|-1985799200|rug|Uncommon|0|False|0|cloth:25;|
 |2087678962|searchlight|Rare|0|False|2|wood:500;metal.fragments:200;|
 |1950721418|shelves|Common|0|False|0|metal.fragments:50;|
 |23352662|sign.hanging.banner.large|Rare|0|False|0|cloth:200;metal.fragments:300;|
@@ -273,6 +277,7 @@
 |596469572|rf.detonator|Common|0|False|1|metal.refined:5;techparts:1;|
 |304481038|flare|Common|0|False|1|gunpowder:10;metal.fragments:10;|
 |-196667575|flashlight.held|Common|0|True|1|metal.fragments:30;|
+|363163265|hosetool|None|0|True|1|metal.refined:5;|
 |254522515|largemedkit|Uncommon|0|False|2|syringe.medical:2;lowgradefuel:50;|
 |1079279582|syringe.medical|Common|100|False|2|cloth:15;metal.fragments:10;lowgradefuel:10;|
 |-566907190|rf_pager|Rare|0|False|2|metal.fragments:25;techparts:1;|
